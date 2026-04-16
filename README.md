@@ -18,9 +18,9 @@
 <br/><br/>
 
 <!-- Contact -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Javid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
-[![Email](https://img.shields.io/badge/Gmail-mabdullah.ab614-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mabdullah.ab614@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=000000)](https://github.com/mabdullahab614-alt)
+[<img src="https://img.shields.io/badge/LinkedIn-Abdullah_Javid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
+[<img src="https://img.shields.io/badge/Gmail-mabdullah.ab614-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>](mailto:mabdullah.ab614@gmail.com)
+<a href="https://github.com/mabdullahab614-alt"><img src="https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=000000"/></a>
 
 </div>
 
@@ -76,10 +76,10 @@ First-year student. Production-ready builder. 🔥
 <td width="50%" valign="top">
 
 ### 🤖 AI Chatbot Suite
-![Claude API](https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic)
-![GPT-4](https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic"/>
+<img src="https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square"/>
 
 Multi-platform chatbots with **custom personas**, domain knowledge injection & memory systems. Deployed to real users worldwide.
 
@@ -87,9 +87,9 @@ Multi-platform chatbots with **custom personas**, domain knowledge injection & m
 <td width="50%" valign="top">
 
 ### 🌐 Web AI Tools Suite
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
 
 Text summarizers, image analyzers, content generators — **all production deployed** & publicly accessible.
 
@@ -99,8 +99,8 @@ Text summarizers, image analyzers, content generators — **all production deplo
 <td width="50%" valign="top">
 
 ### 🧮 Smart Calculator Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
 
 Engineering & scientific calculators with **AI-powered step-by-step explanations** via Claude & GPT-4.
 
@@ -108,9 +108,9 @@ Engineering & scientific calculators with **AI-powered step-by-step explanations
 <td width="50%" valign="top">
 
 ### 🎮 Arcade Game Engine
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
 
 Classic arcade games with **AI-generated levels** & real-time high-score tracking via Firebase.
 
@@ -120,9 +120,9 @@ Classic arcade games with **AI-generated levels** & real-time high-score trackin
 <td width="50%" valign="top">
 
 ### ☁️ Cloud Deployments
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
 Scalable backends powering **AI-driven apps at scale** across AWS, Azure & Firebase infrastructure.
 
@@ -130,8 +130,8 @@ Scalable backends powering **AI-driven apps at scale** across AWS, Azure & Fireb
 <td width="50%" valign="top">
 
 ### ⚡ GenAI Experiments
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GenAI](https://img.shields.io/badge/Multimodal_AI-00FF88?style=flat-square&labelColor=000)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multimodal_AI-00FF88?style=flat-square&labelColor=000"/>
 
 Multimodal AI pipelines — **image generation, voice synthesis & RAG** architectures from scratch.
 
@@ -141,21 +141,21 @@ Multimodal AI pipelines — **image generation, voice synthesis & RAG** architec
 <td width="50%" valign="top">
 
 ### ✍️ Air Writer
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square"/>
 
-Write in the air using **hand gesture tracking** via webcam — real-time finger-tip detection with OpenCV & MediaPipe. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/air-writer)
+Write in the air using **hand gesture tracking** via webcam — real-time finger-tip detection with OpenCV & MediaPipe. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/air-writer)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Nexus AI Assistant
-![Claude API](https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
 
-A **production-grade AI assistant** powered by Claude API with custom persona, memory & multi-turn conversation. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/nexus-ai-assistant)
+A **production-grade AI assistant** powered by Claude API with custom persona, memory & multi-turn conversation. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/nexus-ai-assistant)
 
 </td>
 </tr>
@@ -163,21 +163,21 @@ A **production-grade AI assistant** powered by Claude API with custom persona, m
 <td width="50%" valign="top">
 
 ### 🧠 Brain Tumor Detector
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-7700ff?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-Deep_Learning-7700ff?style=flat-square"/>
 
-Deep learning model using **CNNs to classify brain MRI scans** for tumor detection with high accuracy. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/brain-tumor-detector)
+Deep learning model using **CNNs to classify brain MRI scans** for tumor detection with high accuracy. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/brain-tumor-detector)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔬 Skin Disease Detector
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square"/>
 
-AI-powered **skin condition classifier** — upload an image and get instant diagnosis predictions via deep learning. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/skin-disease-detector)
+AI-powered **skin condition classifier** — upload an image and get instant diagnosis predictions via deep learning. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/skin-disease-detector)
 
 </td>
 </tr>
@@ -185,21 +185,21 @@ AI-powered **skin condition classifier** — upload an image and get instant dia
 <td width="50%" valign="top">
 
 ### 🎨 AI Image Generator
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-00ccff?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-00ccff?style=flat-square"/>
 
-Text-to-image generation pipeline using **Stable Diffusion & HuggingFace** models — prompt in, art out. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/ai-image-generator)
+Text-to-image generation pipeline using **Stable Diffusion & HuggingFace** models — prompt in, art out. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/ai-image-generator)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐾 Animal Detector
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
 
-Real-time **animal recognition system** using computer vision — classify animals from images with a trained CNN model. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/animal-detector)
+Real-time **animal recognition system** using computer vision — classify animals from images with a trained CNN model. [<img src="https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/animal-detector)
 
 </td>
 </tr>
@@ -220,18 +220,22 @@ Real-time **animal recognition system** using computer vision — classify anima
 
 ### 🤖 AI & ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-&nbsp;&nbsp;
-![Claude API](https://img.shields.io/badge/Claude_API-FF6B2B?style=for-the-badge&logo=anthropic&logoColor=white)
-![GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_GPT--4-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 ### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel&theme=dark" />
-&nbsp;&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
@@ -312,8 +316,8 @@ Real-time **animal recognition system** using computer vision — classify anima
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mabdullah.ab614@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
+[<img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>](mailto:mabdullah.ab614@gmail.com)
 
 <br/>
 
