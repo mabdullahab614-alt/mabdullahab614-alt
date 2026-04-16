@@ -3,9 +3,6 @@
 <!-- Cyber Neon Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a0d,60:003320,100:00ff88&height=250&section=header&text=Abdullah%20Javid&fontSize=70&fontColor=00FF88&animation=fadeIn&fontAlignY=40&stroke=00ffcc&strokeWidth=2&desc=⚡%20AI%20Developer%20%7C%20BS%20Artificial%20Intelligence%20%40%20UMT%20Lahore%20⚡&descAlignY=62&descSize=17&descColor=00ccff" width="100%"/>
 
-<!-- Glitch Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=600&color=00FF88&background=00000000&center=true&vCenter=true&width=750&height=55&lines=⚡+INITIALIZING+AI+SYSTEMS...;🤖+Building+Production+AI+Chatbots+%26+Tools;☁️+Deployed+Across+20%2B+Platforms+Worldwide;🔥+Claude+%7C+GPT-4+%7C+Gemini+%7C+HuggingFace;💀+First-Year+Student.+Production-Ready+Builder.;🚀+I+Don't+Just+Learn+—+I+DEPLOY." alt="Typing SVG" />
-
 <br/>
 
 <!-- Animated Neon Divider -->
@@ -140,6 +137,72 @@ Multimodal AI pipelines — **image generation, voice synthesis & RAG** architec
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ Air Writer
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square)
+
+Write in the air using **hand gesture tracking** via webcam — real-time finger-tip detection with OpenCV & MediaPipe. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/air-writer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Nexus AI Assistant
+![Claude API](https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+A **production-grade AI assistant** powered by Claude API with custom persona, memory & multi-turn conversation. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/nexus-ai-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Brain Tumor Detector
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-7700ff?style=flat-square)
+
+Deep learning model using **CNNs to classify brain MRI scans** for tumor detection with high accuracy. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/brain-tumor-detector)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Skin Disease Detector
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+
+AI-powered **skin condition classifier** — upload an image and get instant diagnosis predictions via deep learning. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/skin-disease-detector)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 AI Image Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-00ccff?style=flat-square)
+
+Text-to-image generation pipeline using **Stable Diffusion & HuggingFace** models — prompt in, art out. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/ai-image-generator)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 Animal Detector
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+
+Real-time **animal recognition system** using computer vision — classify animals from images with a trained CNN model. [![Repo](https://img.shields.io/badge/View-Repo-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/mabdullahab614-alt/animal-detector)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -247,9 +310,7 @@ Multimodal AI pipelines — **image generation, voice synthesis & RAG** architec
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=💬+Open+to+Collaborations+%26+Internships;⚡+Building+something+cool%3F+Let's+talk!;🚀+I+respond+fast+—+drop+a+message!" />
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mabdullah.ab614@gmail.com)
