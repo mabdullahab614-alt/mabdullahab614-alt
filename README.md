@@ -1,356 +1,133 @@
 <div align="center">
 
-<!-- Cyber Neon Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a0d,60:003320,100:00ff88&height=250&section=header&text=Abdullah%20Javid&fontSize=70&fontColor=00FF88&animation=fadeIn&fontAlignY=40&stroke=00ffcc&strokeWidth=2&desc=⚡%20AI%20Developer%20%7C%20BS%20Artificial%20Intelligence%20%40%20UMT%20Lahore%20⚡&descAlignY=62&descSize=17&descColor=00ccff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=200&section=header&text=Abdullah%20Javid&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%E2%80%94%20BS%20Artificial%20Intelligence%20%40%20UMT%20Lahore&descAlignY=62&descSize=16&descColor=8b949e" width="100%"/>
+
+</div>
 
 <br/>
 
-<!-- Animated Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Javid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
+[![Gmail](https://img.shields.io/badge/Gmail-mabdullah.ab614-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mabdullah.ab614@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-BUDDDY2894830-FFD21E?style=flat-square&labelColor=1c1c1c)](https://huggingface.co/BUDDDY2894830)
+[![Profile Views](https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=flat-square&color=6e7681&label=profile+views)](https://github.com/mabdullahab614-alt)
 
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/⚡_STATUS-ONLINE_%26_BUILDING-00FF88?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/📍_LOCATION-LAHORE%2C_PAKISTAN-00ccff?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🎓_UMT-BS_ARTIFICIAL_INTELLIGENCE-7700ff?style=for-the-badge&labelColor=000000"/>
+</div>
+
+---
+
+## About
+
+First-year **BS Artificial Intelligence** student at UMT Lahore, building and deploying AI-powered applications across computer vision, NLP, and generative AI. I focus on taking concepts from prototype to production — every project on this profile is publicly accessible and serving real users.
+
+```text
+Location   →  Lahore, Pakistan
+University →  UMT Lahore — BS Artificial Intelligence (2025–2029)
+Focus      →  LLMs · Computer Vision · RAG · Generative AI
+Status     →  Building in public 🚀
+```
+
+---
+
+## Featured Projects
+
+### 🧠 Medical AI
+
+| Project | Stack | Metrics |
+|---|---|---|
+| [Brain Tumor Detector](https://github.com/mabdullahab614-alt/brain-tumor-detector) | TensorFlow · CNN · Python | **97% accuracy** on MRI scan classification |
+| [Skin Disease Detector](https://github.com/mabdullahab614-alt/skin-disease-detector) · [Live Demo](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) | PyTorch · Gradio | **89% accuracy** · multi-class skin condition classifier |
+
+### 🤖 AI Assistants & LLM Apps
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [Nexus AI Assistant](https://github.com/mabdullahab614-alt/nexus-ai-assistant) · [Live Demo](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) | Claude API · Streamlit | Custom persona · persistent memory · multi-turn conversations |
+| AI Chatbot Suite | Claude API · GPT-4 · Gemini · Gradio | Domain knowledge injection across multiple deployed platforms |
+
+### 👁️ Computer Vision
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [Air Writer](https://github.com/mabdullahab614-alt/air-writer) | OpenCV · MediaPipe · Python | Real-time fingertip tracking — write in the air via webcam |
+| [Animal Detector](https://github.com/mabdullahab614-alt/animal-detector) · [Live Demo](https://huggingface.co/spaces/BUDDDY2894830/animal-detector) | TensorFlow · Streamlit | Real-time animal recognition using trained CNN |
+
+### 🎨 Generative AI & Web Tools
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [AI Image Generator](https://github.com/mabdullahab614-alt/ai-image-generator) · [HuggingFace](https://huggingface.co/BUDDDY2894830) | Stable Diffusion · HuggingFace | Text-to-image pipeline, publicly accessible |
+| Web AI Tools Suite | Vercel · Azure · HuggingFace | Text summarizers, image analyzers, content generators — all deployed |
+| Smart Calculator Tools | Python · Streamlit | Engineering calculators with Claude & GPT-4 step-by-step explanations |
+| Arcade Game Engine | JavaScript · Firebase · Vercel | AI-generated levels + real-time leaderboards |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**AI & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=flat-square&labelColor=1c1c1c)
+
+**Cloud & Deployment**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&border_radius=8" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_radius=8" height="170"/>
 
 <br/><br/>
 
-<!-- Contact & Social Links -->
-[<img src="https://img.shields.io/badge/LinkedIn-Abdullah_Javid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
-[<img src="https://img.shields.io/badge/Gmail-mabdullah.ab614-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>](mailto:mabdullah.ab614@gmail.com)
-[<img src="https://img.shields.io/badge/🤗_HuggingFace-BUDDDY2894830-FFD21E?style=for-the-badge&labelColor=000000"/>](https://huggingface.co/BUDDDY2894830)
-<a href="https://github.com/mabdullahab614-alt"><img src="https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=000000"/></a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;`> whoami`
-
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```bash
-┌──(abdullah㉿umt-lahore)-[~]
-└─$ cat about.json
-```
-
-```json
-{
-  "name"       : "Abdullah Javid",
-  "role"       : "AI Developer & BS AI Student",
-  "university" : "UMT Lahore — Class of 2029",
-  "location"   : "Lahore, Pakistan 🇵🇰",
-  "languages"  : ["Python", "C++", "JavaScript", "HTML/CSS"],
-  "ai_apis"    : ["Claude API", "GPT-4", "Gemini", "HuggingFace"],
-  "cloud"      : ["AWS", "Azure", "Firebase", "Vercel", "Replit"],
-  "interests"  : ["Generative AI", "LLMs", "Chatbot Dev", "RAG", "Computer Vision"],
-  "huggingface": "https://huggingface.co/BUDDDY2894830",
-  "available"  : true,
-  "motto"      : "I don't just learn concepts — I deploy them. 🚀"
-}
-```
-
-```bash
-┌──(abdullah㉿umt-lahore)-[~]
-└─$ echo "First-year student. Production-ready builder. 🔥"
-
-First-year student. Production-ready builder. 🔥
-```
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Featured Projects
-
-> 🟢 **`STATUS: LIVE & DEPLOYED`** — These aren't toy projects. They serve real users.
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Chatbot Suite
-<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic"/>
-<img src="https://img.shields.io/badge/GPT--4-74AA9C?style=flat-square&logo=openai"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square"/>
-
-Multi-platform chatbots with **custom personas**, domain knowledge injection & memory systems. Deployed to real users worldwide.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web AI Tools Suite
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
-
-Text summarizers, image analyzers, and content generators — **all production deployed** and publicly accessible.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧮 Smart Calculator Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-
-Engineering and scientific calculators with **AI-powered step-by-step explanations** via Claude & GPT-4.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Arcade Game Engine
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel"/>
-
-Classic arcade games with **AI-generated levels** and real-time high-score tracking via Firebase.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Deployments
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-Scalable backends powering **AI-driven apps at scale** across AWS, Azure & Firebase infrastructure.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ GenAI Experiments
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multimodal_AI-00FF88?style=flat-square&labelColor=000"/>
-
-Multimodal AI pipelines — **image generation, voice synthesis & RAG** architectures built from scratch.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✍️ Air Writer
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-00BCD4?style=flat-square"/>
-
-Write in the air using **hand gesture tracking** via webcam — real-time fingertip detection with OpenCV & MediaPipe.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/air-writer)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Nexus AI Assistant
-<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=flat-square&logo=anthropic"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-
-A **production-grade AI assistant** powered by Claude API with a custom persona, memory & multi-turn conversation.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/nexus-ai-assistant)
-[<img src="https://img.shields.io/badge/🤗_Live_Demo-HuggingFace-FFD21E?style=flat-square&labelColor=000000"/>](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Brain Tumor Detector
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN-Deep_Learning-7700ff?style=flat-square"/>
-
-Deep learning model using **CNNs to classify brain MRI scans** for tumor detection with high accuracy.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/brain-tumor-detector)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Skin Disease Detector
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square"/>
-
-AI-powered **skin condition classifier** — upload an image and get instant diagnosis predictions via deep learning.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/skin-disease-detector)
-[<img src="https://img.shields.io/badge/🤗_Live_Demo-HuggingFace-FFD21E?style=flat-square&labelColor=000000"/>](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 AI Image Generator
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-00ccff?style=flat-square"/>
-
-Text-to-image generation pipeline using **Stable Diffusion & HuggingFace** models — prompt in, art out.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/ai-image-generator)
-[<img src="https://img.shields.io/badge/🤗_HuggingFace-Profile-FFD21E?style=flat-square&labelColor=000000"/>](https://huggingface.co/BUDDDY2894830)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 Animal Detector
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
-
-Real-time **animal recognition system** using computer vision — classify animals from images with a trained CNN model.
-
-[<img src="https://img.shields.io/badge/GitHub-View_Repo-00FF88?style=flat-square&logo=github&logoColor=black"/>](https://github.com/mabdullahab614-alt/animal-detector)
-[<img src="https://img.shields.io/badge/🤗_Live_Demo-HuggingFace-FFD21E?style=flat-square&labelColor=000000"/>](https://huggingface.co/spaces/BUDDDY2894830/animal-detector)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> &nbsp;Tech Arsenal
-
-<div align="center">
-
-### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css&theme=dark" />
-
-### 🤖 AI & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Claude_API-FF6B2B?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_GPT--4-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-⚡ SKILL MATRIX ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Python        ████████████████████░░░  90%  [ EXPERT      ]
-  Claude API    ████████████████████░░░  90%  [ EXPERT      ]
-  GPT-4 API     ████████████████████░░░  90%  [ EXPERT      ]
-  HTML / CSS    ████████████████░░░░░░░  80%  [ ADVANCED    ]
-  C++           ███████████████░░░░░░░░  75%  [ ADVANCED    ]
-  Gemini API    █████████████████░░░░░░  85%  [ ADVANCED    ]
-  JavaScript    █████████████░░░░░░░░░░  65%  [ INTERMEDIATE]
-  AWS / Azure   ██████████████░░░░░░░░░  70%  [ INTERMEDIATE]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00FF88&icon_color=00ccff&text_color=00FF88&border_radius=10" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF88&text_color=00ccff&border_radius=10" height="175"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mabdullahab614-alt&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00ccff&currStreakLabel=00FF88&sideLabels=00ccff&dates=555555&currStreakNum=00FF88&sideNums=00ccff" width="530"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullahab614-alt&bg_color=000000&color=00FF88&line=00ccff&point=00FF88&area_color=003320&area=true&hide_border=true&custom_title=⚡%20Contribution%20Activity" width="96%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🎓  BS Artificial Intelligence                                  ║
-║      University of Management & Technology (UMT), Lahore        ║
-║      2025 – Present                              [ ACTIVE ]      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📘  FSc Pre-Engineering                                         ║
-║      Punjab Group of Colleges                                    ║
-║      2023 – 2025                                 [ COMPLETED ]   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
-[<img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>](mailto:mabdullah.ab614@gmail.com)
-[<img src="https://img.shields.io/badge/🤗_HuggingFace-Visit_Profile-FFD21E?style=for-the-badge&labelColor=000000"/>](https://huggingface.co/BUDDDY2894830)
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-snake.svg"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mabdullahab614-alt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=6e7681&currStreakNum=ffffff&sideNums=8b949e" width="500"/>
 
 </div>
 
 ---
 
+## Education
+
+| Degree | Institution | Period | Status |
+|---|---|---|---|
+| BS Artificial Intelligence | University of Management & Technology (UMT), Lahore | 2025 – 2029 | Active |
+| FSc Pre-Engineering | Punjab Group of Colleges | 2023 – 2025 | Completed |
+
+---
+
+## Let's Connect
+
+I'm always open to collaborating on AI projects, research, or anything interesting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullah.ab614@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Visit_Profile-FFD21E?style=for-the-badge&labelColor=1c1c1c)](https://huggingface.co/BUDDDY2894830)
+
+---
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a0d,100:003320&height=150&section=footer&text=⚡%20Building%20the%20Future%20with%20AI%20⚡&fontSize=24&fontColor=00FF88&animation=fadeIn&fontAlignY=60&desc=One+Deployment+at+a+Time+—+Abdullah+Javid&descAlignY=80&descColor=00ccff&descSize=15" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
