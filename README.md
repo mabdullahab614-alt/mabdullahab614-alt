@@ -15,21 +15,21 @@
 
 <br/><br/>
 
-![ROLE](https://img.shields.io/badge/ROLE-AI%20DEVELOPER-00d9ff?style=flat-square&labelColor=0a1224)
-![SPEC](https://img.shields.io/badge/SPEC-ML%20ENGINEER-9d4edd?style=flat-square&labelColor=150a2e)
-![EDU](https://img.shields.io/badge/BS%20AI-UMT%20LAHORE-ff006e?style=flat-square&labelColor=2e0a1a)
-![CGPA](https://img.shields.io/badge/CGPA-3.64%20%2F%204.0-gold?style=flat-square&labelColor=2e2a0a)
+[![ROLE](https://img.shields.io/badge/ROLE-AI%20DEVELOPER-00d9ff?style=flat-square&labelColor=0a1224)](https://portfolio-website-jet-iota-21.vercel.app)
+[![SPEC](https://img.shields.io/badge/SPEC-ML%20ENGINEER-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app)](https://portfolio-website-jet-iota-21.vercel.app)
+[![EDU](https://img.shields.io/badge/BS%20AI-UMT%20LAHORE-ff006e?style=flat-square&labelColor=2e0a1a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![CGPA](https://img.shields.io/badge/CGPA-3.64%20%2F%204.0-gold?style=flat-square&labelColor=2e2a0a)](https://portfolio-website-jet-iota-21.vercel.app)
 
-![PROJECTS](https://img.shields.io/badge/LIVE%20PROJECTS-11%2B-ff6b35?style=flat-square&labelColor=2e1a0a)
-![PLATFORMS](https://img.shields.io/badge/PLATFORMS-20%2B-00ff88?style=flat-square&labelColor=0a2e1a)
-![APIS](https://img.shields.io/badge/AI%20APIS-5%2B-00d9ff?style=flat-square&labelColor=0a1e2e)
-![LOC](https://img.shields.io/badge/LAHORE-PAKISTAN-9d4edd?style=flat-square&labelColor=150a2e)
+[![PROJECTS](https://img.shields.io/badge/LIVE%20PROJECTS-11%2B-ff6b35?style=flat-square&labelColor=2e1a0a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![PLATFORMS](https://img.shields.io/badge/PLATFORMS-20%2B-00ff88?style=flat-square&labelColor=0a2e1a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![APIS](https://img.shields.io/badge/AI%20APIS-5%2B-00d9ff?style=flat-square&labelColor=0a1e2e)](https://portfolio-website-jet-iota-21.vercel.app)
+[![LOC](https://img.shields.io/badge/LAHORE-PAKISTAN-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app)](https://portfolio-website-jet-iota-21.vercel.app)
 
 <br/>
 
 ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode,react,nodejs,docker,firebase&theme=dark&perline=8)
 
-![neon](neon-banner.svg)
+[![neon](neon-banner.svg)](https://portfolio-website-jet-iota-21.vercel.app)
 
 
 </div>
@@ -60,9 +60,9 @@ class AbdullahJavid:
 
 <div align="center">
 
-![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)
-![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)
-![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)
+[![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)](https://linkedin.com/in/abdullah-javid-b217a2384)
+[![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)](mailto:mabdullah.ab614@gmail.com)
 
 </div>
 
@@ -83,7 +83,7 @@ class AbdullahJavid:
 | ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings - ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
-| 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
+| 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app)](https://portfolio-website-jet-iota-21.vercel.app)](https://portfolio-website-jet-iota-21.vercel.app) |
 
 </div>
 
@@ -95,13 +95,13 @@ class AbdullahJavid:
 
 ![cert1](https://img.shields.io/badge/Google-ML%20Crash%20Course-00d9ff?style=flat-square&logo=google&logoColor=white&labelColor=0a1224)
 ![cert2](https://img.shields.io/badge/HuggingFace-NLP%20with%20Transformers-ffcc00?style=flat-square&labelColor=1a1040)
-![cert3](https://img.shields.io/badge/DeepLearning.AI-Machine%20Learning-ff006e?style=flat-square&labelColor=2e0a1a)
-![cert4](https://img.shields.io/badge/Coursera%20%26%20Kaggle-AI%2FML%20Courses-00ff88?style=flat-square&labelColor=0a2e1a)
+![cert3](https://img.shields.io/badge/DeepLearning.AI-Machine%20Learning-ff006e?style=flat-square&labelColor=2e0a1a)](https://portfolio-website-jet-iota-21.vercel.app)
+![cert4](https://img.shields.io/badge/Coursera%20%26%20Kaggle-AI%2FML%20Courses-00ff88?style=flat-square&labelColor=0a2e1a)](https://portfolio-website-jet-iota-21.vercel.app)
 
 ![ach1](https://img.shields.io/badge/11%2B_Deployments-Hugging%20Face%20Spaces-ffcc00?style=flat-square&labelColor=1a1040)
-![ach2](https://img.shields.io/badge/360_Bootcamp-UMT%202025%20Completion-9d4edd?style=flat-square&labelColor=150a2e)
-![ach3](https://img.shields.io/badge/FSc%20Score-1043%20%2F%201200-00d9ff?style=flat-square&labelColor=0a1224)
-![ach4](https://img.shields.io/badge/5%2B%20AI%20APIs-Production%20Integrated-ff6b35?style=flat-square&labelColor=2e1a0a)
+![ach2](https://img.shields.io/badge/360_Bootcamp-UMT%202025%20Completion-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app)](https://portfolio-website-jet-iota-21.vercel.app)
+![ach3](https://img.shields.io/badge/FSc%20Score-1043%20%2F%201200-00d9ff?style=flat-square&labelColor=0a1224)](https://portfolio-website-jet-iota-21.vercel.app)
+![ach4](https://img.shields.io/badge/5%2B%20AI%20APIs-Production%20Integrated-ff6b35?style=flat-square&labelColor=2e1a0a)](https://portfolio-website-jet-iota-21.vercel.app)
 
 </div>
 

@@ -1,0 +1,39 @@
+﻿<svg width="185" height="52" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg_btnportfoliosvg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#150a2e"/>
+    </linearGradient>
+    <filter id="glow_btnportfoliosvg">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Shadow -->
+  <rect x="4" y="5" width="177" height="44" rx="10" fill="#00d9ff" opacity="0.2" filter="url(#glow_btnportfoliosvg)"/>
+  <!-- Body -->
+  <rect width="183" height="50" rx="10" fill="url(#bg_btnportfoliosvg)"/>
+  <!-- Animated border -->
+  <rect x="1" y="1" width="181" height="48" rx="9" fill="none" stroke="#00d9ff" stroke-width="1.8" filter="url(#glow_btnportfoliosvg)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke" values="#00d9ff;#00a8cc;#00d9ff" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Top shine (3D effect) -->
+  <rect x="8" y="2" width="167" height="1" rx="1" fill="#00d9ff" opacity="0.4"/>
+  <!-- Icon -->
+  <text x="22" y="33" font-size="18" text-anchor="middle">🌐
+    <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <!-- Label -->
+  <text x="100" y="32" font-size="13" font-family="monospace" font-weight="bold" text-anchor="middle" fill="#00d9ff" filter="url(#glow_btnportfoliosvg)">
+    ▶ VISIT PORTFOLIO
+    <animate attributeName="fill" values="#00d9ff;#00a8cc;#00d9ff" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <!-- Corner dots -->
+  <circle cx="9" cy="9" r="2" fill="#00d9ff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="174" cy="9" r="2" fill="#00d9ff" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
