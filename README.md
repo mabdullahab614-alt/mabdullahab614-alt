@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=230&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=62&descSize=20&animation=fadeIn)
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=130&text=AI%20Developer%20%2B%20ML%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=17&descAlignY=75)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=0:0a0e27,50:00d9ff,100:9d4edd&height=100&section=header)
 
 <div align="center">
 
@@ -148,6 +148,8 @@ class AbdullahJavid:
 
 ![3D animated](profile-3d-contrib/profile-season-animate.svg)
 
+![3D green](profile-3d-contrib/profile-green-animate.svg)
+
 ![3D night](profile-3d-contrib/profile-night-rainbow.svg)
 
 
@@ -157,7 +159,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical&bgColor=0d1117&borderColor=00d9ff&textColor=ffffff&qColor=9d4edd&aColor=ff006e&hideBorder=false)
+![fun](https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,50:9d4edd,100:0a0e27&height=60&text=%F0%9F%98%84%20Why%20do%20programmers%20prefer%20dark%20mode%3F%20Because%20light%20attracts%20bugs!&fontSize=14&fontColor=00d9ff&animation=twinkling&desc=Refreshes%20daily%20with%20new%20AI%20%26%20dev%20jokes&descSize=11&descAlignY=80)
 
 </div>
 
