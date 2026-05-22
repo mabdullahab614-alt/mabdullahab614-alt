@@ -45,8 +45,26 @@ class AbdullahJavid:
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
     deployed   = "11+ live AI apps across 20+ global platforms"
+    passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
+
+    def hello(self):
+        return "Let's build something amazing with AI!"
 ```
+
+---
+
+## 🚀 Currently Building
+
+<div align="center">
+
+![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)
+&nbsp;
+![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)
+&nbsp;
+![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)
+
+</div>
 
 ---
 
@@ -66,6 +84,24 @@ class AbdullahJavid:
 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
+
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+![cert1](https://img.shields.io/badge/Google-ML%20Crash%20Course-00d9ff?style=flat-square&logo=google&logoColor=white&labelColor=0a1224)
+![cert2](https://img.shields.io/badge/HuggingFace-NLP%20with%20Transformers-ffcc00?style=flat-square&labelColor=1a1040)
+![cert3](https://img.shields.io/badge/DeepLearning.AI-Machine%20Learning-ff006e?style=flat-square&labelColor=2e0a1a)
+![cert4](https://img.shields.io/badge/Coursera%20%26%20Kaggle-AI%2FML%20Courses-00ff88?style=flat-square&labelColor=0a2e1a)
+
+![ach1](https://img.shields.io/badge/11%2B_Deployments-Hugging%20Face%20Spaces-ffcc00?style=flat-square&labelColor=1a1040)
+![ach2](https://img.shields.io/badge/360_Bootcamp-UMT%202025%20Completion-9d4edd?style=flat-square&labelColor=150a2e)
+![ach3](https://img.shields.io/badge/FSc%20Score-1043%20%2F%201200-00d9ff?style=flat-square&labelColor=0a1224)
+![ach4](https://img.shields.io/badge/5%2B%20AI%20APIs-Production%20Integrated-ff6b35?style=flat-square&labelColor=2e1a0a)
 
 </div>
 
