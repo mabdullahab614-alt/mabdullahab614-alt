@@ -146,11 +146,9 @@ class AbdullahJavid:
 
 ## 🌆 3D Contribution City
 
-![3D animated](profile-3d-contrib/profile-season-animate.svg)
+![3D rainbow](profile-3d-contrib/profile-night-rainbow.svg)
 
-![3D green](profile-3d-contrib/profile-green-animate.svg)
-
-![3D night](profile-3d-contrib/profile-night-rainbow.svg)
+![3D animated](profile-3d-contrib/profile-south-season-animate.svg)
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00d9ff&height=2)
