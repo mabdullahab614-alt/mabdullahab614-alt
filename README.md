@@ -155,11 +155,7 @@ class AbdullahJavid:
 
 ## 🌆 3D Contribution City
 
-> ⚙️ Auto-generates daily via GitHub Action — 3D neon city built from your contributions
-
-![3D](profile-3d-contrib/profile-night-rainbow.svg)
-
-## 🌆 3D Contribution City
+> ⚙️ **To activate:** Go to Actions tab → "3D Contribution Graph" → Run workflow (takes ~30 sec)
 
 ![3D](profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -198,7 +194,6 @@ class AbdullahJavid:
 
 <br/>
 
-[![visits](https://visitcount.itsvg.in/api?id=mabdullahab614-alt&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 &nbsp;
 ![views](https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00d9ff&labelColor=0a0e27&label=TOTAL+VIEWS)
 
