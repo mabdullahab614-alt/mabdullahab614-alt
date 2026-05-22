@@ -68,7 +68,7 @@ class AbdullahJavid:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,100:00d9ff&height=2)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured AI Projects
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Featured AI Projects
 
 <div align="center">
 
@@ -161,7 +161,7 @@ class AbdullahJavid:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:ff006e&height=2)
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZd176/giphy.gif" width="28"> Connect
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
 
 <div align="center">
 
