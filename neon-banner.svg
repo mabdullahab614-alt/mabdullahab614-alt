@@ -1,0 +1,25 @@
+<svg width="800" height="70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="70" fill="#0a0e27" rx="10"/>
+  <rect x="1" y="1" width="798" height="68" fill="none" stroke="#00d9ff" stroke-width="1.5" rx="10" opacity="0.6">
+    <animate attributeName="stroke" values="#00d9ff;#9d4edd;#ff006e;#00d9ff" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="44" text-anchor="middle" font-size="26" font-family="monospace" font-weight="bold" filter="url(#glow)">
+    <tspan fill="#00d9ff">AI Developer</tspan>
+    <tspan fill="#ffffff"> · </tspan>
+    <tspan fill="#9d4edd">ML Engineer</tspan>
+    <tspan fill="#ffffff"> · </tspan>
+    <tspan fill="#ff006e">Builder + Deployer</tspan>
+    <animate attributeName="opacity" values="1;0.85;1" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+</svg>

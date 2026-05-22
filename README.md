@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=230&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=62&descSize=20&animation=fadeIn)
 
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=120&text=AI%20Developer%20%26%20ML%20Engineer&fontSize=32&fontColor=ffffff&animation=blinking&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=16&descAlignY=75)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;11%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
@@ -29,6 +31,11 @@
 <br/>
 
 ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode,react,nodejs,docker,firebase&theme=dark&perline=8)
+
+![neon](neon-banner.svg)
+
+![neon](neon-banner.svg)
+
 
 </div>
 
@@ -113,6 +120,11 @@ class AbdullahJavid:
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
 
+[![metrics](https://metrics.lecoq.io/mabdullahab614-alt?template=classic&isocalendar=1&languages=1&achievements=1&habits=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=8&achievements.threshold=C&config.timezone=Asia%2FKarachi&config.animated=true)](https://github.com/mabdullahab614-alt)
+
+[![metrics](https://metrics.lecoq.io/mabdullahab614-alt?template=classic&isocalendar=1&languages=1&achievements=1&habits=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=8&achievements.threshold=C&config.timezone=Asia%2FKarachi&config.animated=true)](https://github.com/mabdullahab614-alt)
+
+
 <br/>
 
 [![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
@@ -138,6 +150,19 @@ class AbdullahJavid:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌆 3D Contribution City
+
+> ⚙️ Auto-generates daily via GitHub Action — 3D neon city built from your contributions
+
+![3D](profile-3d-contrib/profile-night-rainbow.svg)
+
+## 🌆 3D Contribution City
+
+![3D](profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00d9ff&height=2)
 
