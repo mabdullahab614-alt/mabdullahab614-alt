@@ -1,16 +1,127 @@
-## Hi there 👋
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=240&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=60&descSize=20&animation=fadeIn)
 
-<!--
-**mabdullahab614-alt/mabdullahab614-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;Deep+Learning+%7C+Computer+Vision+%7C+NLP;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;11%2B+Live+Projects+on+20%2B+Platforms;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20%E2%96%BA%20PORTFOLIO-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://portfolio-website-jet-iota-21.vercel.app)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20%E2%96%BA%20HUGGING%20FACE-ffcc00?style=for-the-badge&labelColor=1a1040)](https://huggingface.co/Abdullah-Javid)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20%E2%96%BA%20LINKEDIN-0a66c2?style=for-the-badge&labelColor=0a0e27)](https://linkedin.com/in/abdullah-javid-b217a2384)
+
+<br/><br/>
+
+![ROLE](https://img.shields.io/badge/ROLE-AI%20DEVELOPER-00d9ff?style=flat-square&labelColor=0a1224)
+![SPEC](https://img.shields.io/badge/SPEC-ML%20ENGINEER-9d4edd?style=flat-square&labelColor=150a2e)
+![EDU](https://img.shields.io/badge/STUDYING-BS%20AI%20%40%20UMT-ff006e?style=flat-square&labelColor=2e0a1a)
+![CGPA](https://img.shields.io/badge/CGPA-3.64%20%2F%204.0-gold?style=flat-square&labelColor=2e2a0a)
+
+![PROJECTS](https://img.shields.io/badge/LIVE%20PROJECTS-11%2B-ff6b35?style=flat-square&labelColor=2e1a0a)
+![PLATFORMS](https://img.shields.io/badge/PLATFORMS-20%2B-00ff88?style=flat-square&labelColor=0a2e1a)
+![APIS](https://img.shields.io/badge/AI%20APIS-5%2B-00d9ff?style=flat-square&labelColor=0a1e2e)
+![LOCATION](https://img.shields.io/badge/LOCATION-LAHORE%2C%20PAKISTAN-9d4edd?style=flat-square&labelColor=150a2e)
+
+</div>
+
+---
+
+## About Me
+
+```python
+class AbdullahJavid:
+    role       = ["AI Developer", "ML Engineer", "Builder & Deployer"]
+    education  = "BS Artificial Intelligence @ UMT Lahore (CGPA: 3.64/4.0)"
+    languages  = ["Python", "TypeScript", "JavaScript", "C++"]
+    frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
+    ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
+    deployed   = "11+ live AI apps across 20+ global platforms"
+    status     = "Open to Internships & Collaborations"
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode&theme=dark&perline=12)
+
+</div>
+
+---
+
+## Featured AI Projects
+
+<div align="center">
+
+| Project | Model | Metric | Live |
+|:--------|:------|:-------|:-----|
+| Brain Tumor Detector | ResNet18 | 92.2% - 7,200 MRI scans | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/brain-tumor-detector) |
+| Skin Disease Detector | ResNet18 | 71.8% - 9 conditions | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) |
+| Nexus AI Assistant | Groq 4 LLMs | 10 languages real-time web | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) |
+| Animal Detector | YOLOv8 | 10 species real-time | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/animal-detector) |
+| Tablet Defect Inspector | ResNet18 | Good vs Defective | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/tablet-defect-inspector) |
+| Air Writer | MediaPipe | 30fps zero hardware | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
+| ChessMaster | Minimax Alpha-Beta | 20 openings ELO | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
+| Galactic Defender | Pygame WASM | Boss battle 3 modes | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
+| Snake Strike | Canvas API | Web Audio mobile | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![trophies](https://github-profile-trophy.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=8&row=1&column=6)
+
+<br/>
+
+[![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
+
+[![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
+[![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
+
+[![summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
+[![time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mabdullahab614-alt&theme=radical&utcOffset=5)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
+[![streak](https://streak-stats.demolab.com/?user=mabdullahab614-alt&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff006e&currStreakLabel=9d4edd&sideLabels=00d9ff&dates=8b949e)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=mabdullahab614-alt&bg_color=0d1117&color=00d9ff&line=9d4edd&point=ff006e&area=true&area_color=9d4edd30&hide_border=true)](https://github.com/mabdullahab614-alt)
+
+</div>
+
+---
+
+## Contribution Snake
+
+![snake](https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mabdullah.ab614%40gmail.com-ff006e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:mabdullah.ab614@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javid-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://linkedin.com/in/abdullah-javid-b217a2384)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Abdullah--Javid-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://portfolio-website-jet-iota-21.vercel.app)
+
+<br/>
+
+![views](https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00d9ff&labelColor=0a0e27&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,40:9d4edd,80:00d9ff,100:0a0e27&height=130&section=footer&animation=fadeIn)
+
+<div align="center">2026 Abdullah Javid - AI Developer - ML Engineer - Lahore, Pakistan</div>
