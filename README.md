@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=230&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=62&descSize=20&animation=fadeIn)
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=130&section=header&text=AI%20Developer%20%2B%20ML%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=17&descAlignY=75)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=130&text=AI%20Developer%20%2B%20ML%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=17&descAlignY=75)
 
 <div align="center">
 
@@ -9,11 +9,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20%E2%96%BA%20VISIT%20PORTFOLIO-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://portfolio-website-jet-iota-21.vercel.app)
-&nbsp;
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20%E2%96%BA%20HUGGING%20FACE-ffcc00?style=for-the-badge&labelColor=1a1040)](https://huggingface.co/Abdullah-Javid)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20%E2%96%BA%20LINKEDIN-0a66c2?style=for-the-badge&labelColor=0a0e27)](https://linkedin.com/in/abdullah-javid-b217a2384)
-&nbsp;
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7%20%E2%96%BA%20EMAIL%20ME-ff006e?style=for-the-badge&labelColor=0a0e27)](mailto:mabdullah.ab614@gmail.com)
 
 <br/><br/>
@@ -31,8 +28,6 @@
 <br/>
 
 ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode,react,nodejs,docker,firebase&theme=dark&perline=8)
-
-![neon](neon-banner.svg)
 
 ![neon](neon-banner.svg)
 
@@ -66,9 +61,7 @@ class AbdullahJavid:
 <div align="center">
 
 ![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)
-&nbsp;
 ![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)
-&nbsp;
 ![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)
 
 </div>
@@ -122,8 +115,6 @@ class AbdullahJavid:
 
 [![metrics](https://metrics.lecoq.io/mabdullahab614-alt?template=classic&isocalendar=1&languages=1&achievements=1&habits=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=8&achievements.threshold=C&config.timezone=Asia%2FKarachi&config.animated=true)](https://github.com/mabdullahab614-alt)
 
-[![metrics](https://metrics.lecoq.io/mabdullahab614-alt?template=classic&isocalendar=1&languages=1&achievements=1&habits=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=8&achievements.threshold=C&config.timezone=Asia%2FKarachi&config.animated=true)](https://github.com/mabdullahab614-alt)
-
 
 <br/>
 
@@ -154,8 +145,6 @@ class AbdullahJavid:
 ---
 
 ## 🌆 3D Contribution City
-
-> ⚙️ **To activate:** Go to Actions tab → "3D Contribution Graph" → Run workflow (takes ~30 sec)
 
 ![3D](profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -194,7 +183,6 @@ class AbdullahJavid:
 
 <br/>
 
-&nbsp;
 ![views](https://komarev.com/ghpvc/?username=mabdullahab614-alt&style=for-the-badge&color=00d9ff&labelColor=0a0e27&label=TOTAL+VIEWS)
 
 <br/>
