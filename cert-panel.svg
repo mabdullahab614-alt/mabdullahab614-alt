@@ -1,0 +1,31 @@
+﻿<svg width="750" height="90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2"><stop offset="0%" stop-color="#0a0e27"/><stop offset="100%" stop-color="#150a2e"/></linearGradient>
+    <filter id="g2"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="750" height="90" rx="10" fill="url(#bg2)"/>
+  <rect x="1" y="1" width="748" height="88" rx="9" fill="none" stroke="#9d4edd" stroke-width="1.5" filter="url(#g2)">
+    <animate attributeName="stroke" values="#9d4edd;#ff006e;#00d9ff;#9d4edd" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Row 1: Certs -->
+  <text x="375" y="18" font-size="10" font-family="monospace" fill="#888" text-anchor="middle">🎓 CERTIFICATIONS</text>
+  <rect x="10" y="22" width="120" height="22" rx="5" fill="#00d9ff18"/>
+  <text x="70" y="37" font-size="10" font-family="monospace" font-weight="bold" fill="#00d9ff" text-anchor="middle">Google · ML Crash Course</text>
+  <rect x="140" y="22" width="155" height="22" rx="5" fill="#ffcc0018"/>
+  <text x="217" y="37" font-size="10" font-family="monospace" font-weight="bold" fill="#ffcc00" text-anchor="middle">HuggingFace · Transformers</text>
+  <rect x="305" y="22" width="150" height="22" rx="5" fill="#ff006e18"/>
+  <text x="380" y="37" font-size="10" font-family="monospace" font-weight="bold" fill="#ff006e" text-anchor="middle">DeepLearning.AI · ML</text>
+  <rect x="465" y="22" width="140" height="22" rx="5" fill="#00ff8818"/>
+  <text x="535" y="37" font-size="10" font-family="monospace" font-weight="bold" fill="#00ff88" text-anchor="middle">Coursera + Kaggle · AI</text>
+  <!-- Row 2: Achievements -->
+  <text x="375" y="60" font-size="10" font-family="monospace" fill="#888" text-anchor="middle">🏆 ACHIEVEMENTS</text>
+  <rect x="10" y="64" width="130" height="22" rx="5" fill="#ffcc0018"/>
+  <text x="75" y="79" font-size="10" font-family="monospace" font-weight="bold" fill="#ffcc00" text-anchor="middle">11+ HuggingFace Deploys</text>
+  <rect x="150" y="64" width="130" height="22" rx="5" fill="#9d4edd18"/>
+  <text x="215" y="79" font-size="10" font-family="monospace" font-weight="bold" fill="#9d4edd" text-anchor="middle">UMT 360 Bootcamp 2025</text>
+  <rect x="290" y="64" width="110" height="22" rx="5" fill="#00d9ff18"/>
+  <text x="345" y="79" font-size="10" font-family="monospace" font-weight="bold" fill="#00d9ff" text-anchor="middle">FSc · 1043 / 1200</text>
+  <rect x="410" y="64" width="130" height="22" rx="5" fill="#ff6b3518"/>
+  <text x="475" y="79" font-size="10" font-family="monospace" font-weight="bold" fill="#ff6b35" text-anchor="middle">5+ AI APIs · Production</text>
+</svg>

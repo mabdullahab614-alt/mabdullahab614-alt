@@ -1,0 +1,37 @@
+﻿<svg width="750" height="70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg"><stop offset="0%" stop-color="#0a0e27"/><stop offset="100%" stop-color="#150a2e"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="750" height="70" rx="10" fill="url(#bg)"/>
+  <rect x="1" y="1" width="748" height="68" rx="9" fill="none" stroke="#00d9ff" stroke-width="1.5" filter="url(#glow)">
+    <animate attributeName="stroke" values="#00d9ff;#9d4edd;#ff006e;#00d9ff" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Row 1 -->
+  <text x="15" y="26" font-size="10" font-family="monospace" fill="#888">ROLE</text>
+  <rect x="50" y="12" width="95" height="20" rx="4" fill="#00d9ff22"/>
+  <text x="97" y="26" font-size="11" font-family="monospace" font-weight="bold" fill="#00d9ff" text-anchor="middle" filter="url(#glow)">AI DEVELOPER</text>
+  <text x="155" y="26" font-size="10" font-family="monospace" fill="#888">SPEC</text>
+  <rect x="186" y="12" width="95" height="20" rx="4" fill="#9d4edd22"/>
+  <text x="233" y="26" font-size="11" font-family="monospace" font-weight="bold" fill="#9d4edd" text-anchor="middle" filter="url(#glow)">ML ENGINEER</text>
+  <text x="290" y="26" font-size="10" font-family="monospace" fill="#888">BS AI</text>
+  <rect x="320" y="12" width="95" height="20" rx="4" fill="#ff006e22"/>
+  <text x="367" y="26" font-size="11" font-family="monospace" font-weight="bold" fill="#ff006e" text-anchor="middle" filter="url(#glow)">UMT LAHORE</text>
+  <text x="425" y="26" font-size="10" font-family="monospace" fill="#888">CGPA</text>
+  <rect x="458" y="12" width="85" height="20" rx="4" fill="#ffcc0022"/>
+  <text x="500" y="26" font-size="11" font-family="monospace" font-weight="bold" fill="#ffcc00" text-anchor="middle" filter="url(#glow)">3.64 / 4.0</text>
+  <!-- Row 2 -->
+  <text x="15" y="55" font-size="10" font-family="monospace" fill="#888">PROJECTS</text>
+  <rect x="72" y="42" width="40" height="20" rx="4" fill="#ff6b3522"/>
+  <text x="92" y="56" font-size="11" font-family="monospace" font-weight="bold" fill="#ff6b35" text-anchor="middle" filter="url(#glow)">11+</text>
+  <text x="120" y="55" font-size="10" font-family="monospace" fill="#888">PLATFORMS</text>
+  <rect x="182" y="42" width="40" height="20" rx="4" fill="#00ff8822"/>
+  <text x="202" y="56" font-size="11" font-family="monospace" font-weight="bold" fill="#00ff88" text-anchor="middle" filter="url(#glow)">20+</text>
+  <text x="230" y="55" font-size="10" font-family="monospace" fill="#888">AI APIS</text>
+  <rect x="276" y="42" width="30" height="20" rx="4" fill="#00d9ff22"/>
+  <text x="291" y="56" font-size="11" font-family="monospace" font-weight="bold" fill="#00d9ff" text-anchor="middle" filter="url(#glow)">5+</text>
+  <text x="315" y="55" font-size="10" font-family="monospace" fill="#888">LOCATION</text>
+  <rect x="370" y="42" width="100" height="20" rx="4" fill="#9d4edd22"/>
+  <text x="420" y="56" font-size="11" font-family="monospace" font-weight="bold" fill="#9d4edd" text-anchor="middle" filter="url(#glow)">LAHORE, PAKISTAN</text>
+</svg>
