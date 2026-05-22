@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=230&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=62&descSize=20&animation=fadeIn)
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=120&text=AI%20Developer%20%26%20ML%20Engineer&fontSize=32&fontColor=ffffff&animation=blinking&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=16&descAlignY=75)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e27,50:00d9ff,100:9d4edd&height=130&section=header&text=AI%20Developer%20%2B%20ML%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=PyTorch%20%C2%B7%20YOLOv8%20%C2%B7%20Claude%20API%20%C2%B7%20Next.js&descSize=17&descAlignY=75)
 
 <div align="center">
 
