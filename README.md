@@ -157,7 +157,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-![fun](https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,50:9d4edd,100:0a0e27&height=60&text=%F0%9F%98%84%20Why%20do%20programmers%20prefer%20dark%20mode%3F%20Because%20light%20attracts%20bugs!&fontSize=14&fontColor=00d9ff&animation=twinkling&desc=Refreshes%20daily%20with%20new%20AI%20%26%20dev%20jokes&descSize=11&descAlignY=80)
+[![joke](joke-btn.svg)](https://github.com/mabdullahab614-alt)
 
 </div>
 
