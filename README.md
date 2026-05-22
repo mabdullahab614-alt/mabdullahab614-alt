@@ -8,10 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20%E2%96%BA%20VISIT%20PORTFOLIO-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://portfolio-website-jet-iota-21.vercel.app)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20%E2%96%BA%20HUGGING%20FACE-ffcc00?style=for-the-badge&labelColor=1a1040)](https://huggingface.co/Abdullah-Javid)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20%E2%96%BA%20LINKEDIN-0a66c2?style=for-the-badge&labelColor=0a0e27)](https://linkedin.com/in/abdullah-javid-b217a2384)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20%E2%96%BA%20EMAIL%20ME-ff006e?style=for-the-badge&labelColor=0a0e27)](mailto:mabdullah.ab614@gmail.com)
+[![portfolio](btn-portfolio.svg)](https://portfolio-website-jet-iota-21.vercel.app) [![hf](btn-hf.svg)](https://huggingface.co/Abdullah-Javid) [![linkedin](btn-linkedin.svg)](https://linkedin.com/in/abdullah-javid-b217a2384) [![email](btn-email.svg)](mailto:mabdullah.ab614@gmail.com)
 
 <br/><br/>
 
@@ -52,9 +49,9 @@ class AbdullahJavid:
 
 <div align="center">
 
-![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)
-![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)
-![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)
+[![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)](https://linkedin.com/in/abdullah-javid-b217a2384)
+[![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)](mailto:mabdullah.ab614@gmail.com)
 
 </div>
 
