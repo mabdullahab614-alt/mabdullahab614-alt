@@ -113,7 +113,7 @@ class AbdullahJavid:
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
 
-[![metrics](https://metrics.lecoq.io/mabdullahab614-alt?template=classic&isocalendar=1&languages=1&achievements=1&habits=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=8&achievements.threshold=C&config.timezone=Asia%2FKarachi&config.animated=true)](https://github.com/mabdullahab614-alt)
+[![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
 
 
 <br/>

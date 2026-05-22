@@ -1,0 +1,46 @@
+<svg width="420" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff">
+        <animate attributeName="stop-color" values="#00d9ff;#9d4edd;#ff006e;#00d9ff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#9d4edd">
+        <animate attributeName="stop-color" values="#9d4edd;#ff006e;#00d9ff;#9d4edd" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff006e">
+        <animate attributeName="stop-color" values="#ff006e;#00d9ff;#9d4edd;#ff006e" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="420" height="80" rx="12" fill="#0a0e27"/>
+  <!-- Animated glowing border -->
+  <rect x="1.5" y="1.5" width="417" height="77" rx="11" fill="none" stroke="url(#flow)" stroke-width="2.5" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Inner subtle fill -->
+  <rect x="3" y="3" width="414" height="74" rx="10" fill="#0d1030" opacity="0.8"/>
+  <!-- Icon -->
+  <text x="28" y="48" font-size="28" text-anchor="middle" filter="url(#glow)">📊
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+  <!-- Title -->
+  <text x="210" y="36" font-size="18" font-family="monospace" font-weight="bold" text-anchor="middle" fill="url(#flow)" filter="url(#glow)">
+    GitHub Stats Dashboard
+  </text>
+  <!-- Subtitle -->
+  <text x="210" y="58" font-size="12" font-family="monospace" text-anchor="middle" fill="#8b949e">
+    Commits · Stars · Repos · Streak · Languages
+    <animate attributeName="fill" values="#8b949e;#00d9ff;#8b949e" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <!-- Flowing bottom line -->
+  <line x1="20" y1="73" x2="400" y2="73" stroke="url(#flow)" stroke-width="1.5" opacity="0.6" filter="url(#glow)"/>
+</svg>
