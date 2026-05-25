@@ -104,8 +104,8 @@ class AbdullahJavid:
 
 <br/>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=9d4edd&text_color=ffffff&ring_color=ff006e)](https://github.com/mabdullahab614-alt)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8)](https://github.com/mabdullahab614-alt)
+[![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=9d4edd&text_color=ffffff&ring_color=ff006e&cache_seconds=1800)](https://github.com/mabdullahab614-alt)
+[![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=1800)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
