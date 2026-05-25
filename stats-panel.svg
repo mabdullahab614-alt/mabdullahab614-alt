@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#0d1240"/>
+    </linearGradient>
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff006e" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ff006e" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9d4edd" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#9d4edd" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffcc00" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ffcc00" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="card5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00ff88" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main background -->
+  <rect width="860" height="180" rx="16" fill="url(#bg)" stroke="#00d9ff" stroke-width="1" stroke-opacity="0.3"/>
+  <rect x="1" y="1" width="858" height="40" rx="15" fill="white" fill-opacity="0.02"/>
+
+  <!-- Title -->
+  <text x="430" y="26" font-family="'Segoe UI', Arial" font-size="13" font-weight="700" fill="#00d9ff" text-anchor="middle" letter-spacing="3" filter="url(#glow)">⚡  GITHUB STATS DASHBOARD  ⚡</text>
+  <line x1="20" y1="38" x2="840" y2="38" stroke="#00d9ff" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Card 1: Commits -->
+  <rect x="14" y="50" width="154" height="116" rx="12" fill="url(#card1)" stroke="#00d9ff" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="91" y="82" font-family="Segoe UI Emoji, Arial" font-size="22" text-anchor="middle">💻</text>
+  <text x="91" y="116" font-family="'Segoe UI', Arial" font-size="26" font-weight="900" fill="#00d9ff" text-anchor="middle" filter="url(#glow)">185+</text>
+  <text x="91" y="136" font-family="'Segoe UI', Arial" font-size="10" fill="#00d9ff" text-anchor="middle" letter-spacing="1.5" fill-opacity="0.8">COMMITS</text>
+  <text x="91" y="154" font-family="'Segoe UI', Arial" font-size="9" fill="white" text-anchor="middle" fill-opacity="0.4">Aug 2025 – Present</text>
+
+  <!-- Card 2: Repos -->
+  <rect x="178" y="50" width="154" height="116" rx="12" fill="url(#card2)" stroke="#ff006e" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="255" y="82" font-family="Segoe UI Emoji, Arial" font-size="22" text-anchor="middle">📦</text>
+  <text x="255" y="116" font-family="'Segoe UI', Arial" font-size="26" font-weight="900" fill="#ff006e" text-anchor="middle" filter="url(#glow)">12+</text>
+  <text x="255" y="136" font-family="'Segoe UI', Arial" font-size="10" fill="#ff006e" text-anchor="middle" letter-spacing="1.5" fill-opacity="0.8">LIVE PROJECTS</text>
+  <text x="255" y="154" font-family="'Segoe UI', Arial" font-size="9" fill="white" text-anchor="middle" fill-opacity="0.4">20+ Platforms</text>
+
+  <!-- Card 3: Languages -->
+  <rect x="342" y="50" width="176" height="116" rx="12" fill="url(#card3)" stroke="#9d4edd" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="430" y="82" font-family="Segoe UI Emoji, Arial" font-size="22" text-anchor="middle">🧠</text>
+  <text x="430" y="112" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#c77dff" text-anchor="middle" filter="url(#glow)">Python · C++ · TypeScript</text>
+  <text x="430" y="130" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#c77dff" text-anchor="middle" filter="url(#glow)">JavaScript · C · CUDA</text>
+  <text x="430" y="148" font-family="'Segoe UI', Arial" font-size="10" fill="#9d4edd" text-anchor="middle" letter-spacing="1.5" fill-opacity="0.9">TOP LANGUAGES</text>
+
+  <!-- Card 4: Experience -->
+  <rect x="528" y="50" width="154" height="116" rx="12" fill="url(#card4)" stroke="#ffcc00" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="605" y="82" font-family="Segoe UI Emoji, Arial" font-size="22" text-anchor="middle">🎓</text>
+  <text x="605" y="110" font-family="'Segoe UI', Arial" font-size="13" font-weight="700" fill="#ffcc00" text-anchor="middle" filter="url(#glow)">BS AI @ UMT</text>
+  <text x="605" y="130" font-family="'Segoe UI', Arial" font-size="11" fill="#ffcc00" text-anchor="middle" fill-opacity="0.8">CGPA  3.64 / 4.0</text>
+  <text x="605" y="148" font-family="'Segoe UI', Arial" font-size="10" fill="#ffcc00" text-anchor="middle" letter-spacing="1.5" fill-opacity="0.8">EDUCATION</text>
+
+  <!-- Card 5: Status -->
+  <rect x="692" y="50" width="154" height="116" rx="12" fill="url(#card5)" stroke="#00ff88" stroke-width="1" stroke-opacity="0.5"/>
+  <text x="769" y="82" font-family="Segoe UI Emoji, Arial" font-size="22" text-anchor="middle">🚀</text>
+  <text x="769" y="108" font-family="'Segoe UI', Arial" font-size="11" font-weight="700" fill="#00ff88" text-anchor="middle" filter="url(#glow)">OPEN TO WORK</text>
+  <text x="769" y="126" font-family="'Segoe UI', Arial" font-size="10" fill="#00ff88" text-anchor="middle" fill-opacity="0.8">Internships</text>
+  <text x="769" y="142" font-family="'Segoe UI', Arial" font-size="10" fill="#00ff88" text-anchor="middle" fill-opacity="0.8">Collaborations</text>
+  <text x="769" y="158" font-family="'Segoe UI', Arial" font-size="9" fill="#00ff88" text-anchor="middle" fill-opacity="0.5">Lahore, Pakistan</text>
+</svg>

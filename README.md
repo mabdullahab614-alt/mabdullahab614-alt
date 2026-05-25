@@ -104,8 +104,14 @@ class AbdullahJavid:
 
 <br/>
 
-[![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=9d4edd&text_color=ffffff&ring_color=ff006e&cache_seconds=1800)](https://github.com/mabdullahab614-alt)
-[![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=1800)](https://github.com/mabdullahab614-alt)
+[![stats-panel](stats-panel.svg)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
+[![followers](https://img.shields.io/github/followers/mabdullahab614-alt?style=for-the-badge&logo=github&label=Followers&labelColor=0a0e27&color=00d9ff)](https://github.com/mabdullahab614-alt?tab=followers)
+[![repos](https://img.shields.io/badge/Live%20Projects-12%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![hf](https://img.shields.io/badge/HuggingFace%20Spaces-6%2B-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
+[![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS-9d4edd?style=for-the-badge&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
