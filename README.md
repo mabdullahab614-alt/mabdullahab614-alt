@@ -104,13 +104,8 @@ class AbdullahJavid:
 
 <br/>
 
-[![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
-
-[![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
-[![commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
-
-[![summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mabdullahab614-alt&theme=radical)](https://github.com/mabdullahab614-alt)
-[![time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mabdullahab614-alt&theme=radical&utcOffset=5)](https://github.com/mabdullahab614-alt)
+[![stats](https://github-readme-stats.vercel.app/api?username=mabdullahab614-alt&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=9d4edd&text_color=ffffff&ring_color=ff006e)](https://github.com/mabdullahab614-alt)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdullahab614-alt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
