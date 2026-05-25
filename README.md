@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;11%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;12%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@ class AbdullahJavid:
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
-    deployed   = "11+ live AI apps across 20+ global platforms"
+    deployed   = "12+ live AI apps across 20+ global platforms"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
@@ -71,6 +71,7 @@ class AbdullahJavid:
 | ✍️ **Air Writer** | MediaPipe | 30fps - zero hardware | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
 | ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings - ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
+| ⚡ **SURGE** | C++17 + raylib → WASM | 3 stages · 3 bosses · chain-dash | C++, raylib | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/surge/) |
 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
 
