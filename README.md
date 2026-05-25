@@ -93,6 +93,10 @@ class AbdullahJavid:
 
 <div align="center">
 
+[![trophies-btn](btn-trophies.svg)](https://github.com/mabdullahab614-alt?tab=repositories)&nbsp;&nbsp;[![stats-btn](btn-github-stats.svg)](https://github.com/mabdullahab614-alt)&nbsp;&nbsp;[![streak-btn](btn-streak-fire.svg)](https://github.com/mabdullahab614-alt)&nbsp;&nbsp;[![activity-btn](btn-activity-graph.svg)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
 ![trophies](https://github-profile-trophy.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
 
 [![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
