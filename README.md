@@ -75,6 +75,7 @@ class AbdullahJavid:
 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
 | ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
+| 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
 
 </div>
 
