@@ -77,7 +77,7 @@ class AbdullahJavid:
 | ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
 | 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
-| 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer · Bypass detectors instantly | Python, Flask | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
+| 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer · Bypass detectors instantly | Python, Flask | 🌐 Render · Green & White UI · ML Model | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
 
 </div>
 
