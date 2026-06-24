@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;12%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;117%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,7 +35,7 @@ class AbdullahJavid:
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
-    deployed   = " 17+ live AI apps across 5+ global platforms"
+    deployed   = "17+ live projects across 5+ global platforms"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
@@ -61,25 +61,25 @@ class AbdullahJavid:
 
 <div align="center">
 
-| Project | Model | Metric | Stack | Live |
-|:--------|:------|:-------|:------|:-----|
-| 🧠 **Brain Tumor Detector** | ResNet18 | **92.2%** - 7,200 MRI | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/brain-tumor-detector) |
-| 🔬 **Skin Disease Detector** | ResNet18 | **71.8%** - 9 conditions | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) |
-| 🤖 **Nexus AI Assistant** | Groq - 4 LLMs | 10 languages + web | Gradio, Groq | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) |
-| 🐾 **Animal Detector** | YOLOv8 | 10 species real-time | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/animal-detector) |
-| 💊 **Tablet Defect Inspector** | ResNet18 | Good vs Defective | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/tablet-defect-inspector) |
-| ✍️ **Air Writer** | MediaPipe | 30fps - zero hardware | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
-| ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings - ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
-| 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
-| ⚡ **SURGE** | C++17 + raylib → WASM | 3 stages · 3 bosses · chain-dash | C++, raylib | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/surge/) |
-| 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
-| 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
-| ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
-| 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
-| 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
-| 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer · Bypass detectors instantly | Python, Flask | 🌐 Render · Green & White UI · ML Model | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
-| 🛡️ **Mail Sentinel** | TF-IDF + Naive Bayes · 97%+ accuracy · Neural spam detection instantly | Python, Streamlit | 🌐 Render · Neon Cyber UI · NLP Pipeline | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-00d2ff?style=flat-square&labelColor=000814)](https://mail-sentinel-hy47.onrender.com) |
-| 🖩 **Calculator by Abdullah** | C# → Web | Scientific · Dark UI · Keyboard Support | HTML, JS, C# | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0d0d1a)](https://calculator-by-abdullah.onrender.com) |
+| # | Project | Model | Metric | Stack | Live |
+|:--|:--------|:------|:-------|:------|:-----|
+| 1 | 🧠 **Brain Tumor Detector** | ResNet18 | **92.2%** - 7,200 MRI | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/brain-tumor-detector) |
+| 2 | 🔬 **Skin Disease Detector** | ResNet18 | **71.8%** - 9 conditions | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) |
+| 3 | 🤖 **Nexus AI Assistant** | Groq - 4 LLMs | 10 languages + web | Gradio, Groq | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) |
+| 4 | 🐾 **Animal Detector** | YOLOv8 | 10 species real-time | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/animal-detector) |
+| 5 | 💊 **Tablet Defect Inspector** | ResNet18 | Good vs Defective | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/tablet-defect-inspector) |
+| 6 | ✍️ **Air Writer** | MediaPipe | 30fps - zero hardware | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
+| 7 | ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings - ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
+| 8 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
+| 9 | ⚡ **SURGE** | C++17 + raylib → WASM | 3 stages · 3 bosses · chain-dash | C++, raylib | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/surge/) |
+| 10 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
+| 11 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
+| 12 | ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
+| 13 | 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
+| 14 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
+| 15 | 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer | Bypass detectors instantly | Python, Flask | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
+| 16 | 🛡️ **Mail Sentinel** | TF-IDF + Naive Bayes | 97%+ accuracy · Neural spam detection | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-00d2ff?style=flat-square&labelColor=000814)](https://mail-sentinel-hy47.onrender.com) |
+| 17 | 🖩 **Calculator by Abdullah** | C# → Web | Scientific · Dark UI · Keyboard Support | HTML, JS, C# | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0d0d1a)](https://calculator-by-abdullah.onrender.com) |
 
 </div>
 
@@ -107,7 +107,6 @@ class AbdullahJavid:
 
 [![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
 
-
 <br/>
 
 [![stats-panel](stats-panel.svg)](https://github.com/mabdullahab614-alt)
@@ -115,7 +114,7 @@ class AbdullahJavid:
 <br/>
 
 [![followers](https://img.shields.io/github/followers/mabdullahab614-alt?style=for-the-badge&logo=github&label=Followers&labelColor=0a0e27&color=00d9ff)](https://github.com/mabdullahab614-alt?tab=followers)
-[![repos](https://img.shields.io/badge/Live%20Projects-12%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![repos](https://img.shields.io/badge/Live%20Projects-117%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
 [![hf](https://img.shields.io/badge/HuggingFace%20Spaces-6%2B-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
 [![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS-9d4edd?style=for-the-badge&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
 
