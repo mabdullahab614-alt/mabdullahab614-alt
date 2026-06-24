@@ -35,7 +35,7 @@ class AbdullahJavid:
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
-    deployed   = "17+ live AI apps across 5+ global platforms"
+    deployed   = " 17+ live AI apps across 5+ global platforms"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
