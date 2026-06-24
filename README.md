@@ -79,6 +79,7 @@ class AbdullahJavid:
 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
 | 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer · Bypass detectors instantly | Python, Flask | 🌐 Render · Green & White UI · ML Model | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
 | 🛡️ **Mail Sentinel** | TF-IDF + Naive Bayes · 97%+ accuracy · Neural spam detection instantly | Python, Streamlit | 🌐 Render · Neon Cyber UI · NLP Pipeline | [![🚀 TRY LIVE](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-00d2ff?style=flat-square&labelColor=000814)](https://mail-sentinel-hy47.onrender.com) |
+| 🖩 **Calculator by Abdullah** | C# → Web | Scientific · Dark UI · Keyboard Support | HTML, JS, C# | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0d0d1a)](https://calculator-by-abdullah.onrender.com) |
 
 </div>
 
