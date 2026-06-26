@@ -82,7 +82,7 @@ class AbdullahJavid:
 | 17 | 🧠 **NeuroScan AI** | ResNet18 · Transfer Learning | Brain Tumor Detection · 4 Conditions · 92.2% accuracy | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-1d4ed8?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah-Javid/brain-tumor-detector) |
 | 18 | ✏️ **HandScan AI** | CNN · MNIST | Handwritten Digit Recognition · 10 Classes · 99.28% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-4f46e5?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah2894830/handwritten-character-recognition) |
 | 19 | ⚡ **TrackFlow** | Vanilla JS · PWA | Habit Grid · Streak Counter · Daily Diary | HTML, JS, CSS | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/trackflow/) |
-| 20 | 🫁 **LungCancerVision** | MobileNetV2 · Transfer Learning · Lung Cancer Detection · 3 Classes · 99.73% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00fff2?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/lung-cancer-vision) |
+| 20 | 🔬 **Lung Cancer Vision** | MobileNetV2 · Transfer Learning · Lung Cancer Detection · 3 Classes · 99.73% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00fff2?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/lung-cancer-vision) |
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
