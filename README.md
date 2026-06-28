@@ -84,7 +84,7 @@ class AbdullahJavid:
 | 19 | ⚡ **TrackFlow** | Vanilla JS · PWA | Habit Grid · Streak Counter · Daily Diary | HTML, JS, CSS | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/trackflow/) |
 | 20 | 🔬 **Lung Cancer Vision** | MobileNetV2 · Transfer Learning | Lung Cancer Detection · 3 Classes · 99.73% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00fff2?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/lung-cancer-vision) |
 | 21 | ♻️ **Garbage Classifier** | EfficientNetB0 · Transfer Learning | 96.16% accuracy · 12 classes · 15K images | Python, TensorFlow | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a0f)](https://huggingface.co/spaces/Abdullahjavid/garbage-classifier) |
-| 22 | 🎬 **Movie Suggester** | TMDB API · Genre Filter · Year Filter | Python, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullahjavid/movie-suggester) |
+| 22 | 🎬 **Movie Suggester** | TMDB API · Genre Filter · Year Filter | Movie Recommendations · 15+ Genres · Real Posters | Python, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullahjavid/movie-suggester) |
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
