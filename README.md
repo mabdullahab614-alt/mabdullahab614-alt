@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;20%2B+Live+Deployed+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;22%2B+Live+Deployed+Projects;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,25:ffd60a,50:22c55e,75:3b82f6,100:a855f7&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,25:ffd60a,50:22c55e,75:3b82f6,100:a855f7&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
@@ -29,7 +29,7 @@ class AbdullahJavid:
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
-    deployed   = "20+ live projects across HuggingFace, GitHub Pages, Vercel & Render"
+    deployed   = "22+ live projects across HuggingFace, GitHub Pages, Vercel & Render"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
@@ -37,7 +37,7 @@ class AbdullahJavid:
         return "Let's build something amazing with AI!"
 ```
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,25:3b82f6,50:22c55e,75:ffd60a,100:ef4444&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,25:3b82f6,50:22c55e,75:ffd60a,100:ef4444&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently Building
 
@@ -49,7 +49,7 @@ class AbdullahJavid:
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,25:ffd60a,50:22c55e,75:3b82f6,100:a855f7&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,25:ffd60a,50:22c55e,75:3b82f6,100:a855f7&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Flagship Projects
 
@@ -91,7 +91,7 @@ class AbdullahJavid:
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ffd60a,25:22c55e,50:3b82f6,75:a855f7,100:ef4444&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ffd60a,25:22c55e,50:3b82f6,75:a855f7,100:ef4444&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats
 
@@ -107,8 +107,8 @@ class AbdullahJavid:
 <br/>
 
 [![followers](https://img.shields.io/github/followers/mabdullahab614-alt?style=for-the-badge&logo=github&label=Followers&labelColor=000000&color=3b82f6)](https://github.com/mabdullahab614-alt?tab=followers)
-[![repos](https://img.shields.io/badge/Live%20Projects-20%2B-ef4444?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/mabdullahab614-alt?tab=repositories)
-[![hf](https://img.shields.io/badge/HuggingFace%20Spaces-8%2B-ffd60a?style=for-the-badge&labelColor=000000)](https://huggingface.co/Abdullah-Javid)
+[![repos](https://img.shields.io/badge/Live%20Projects-22%2B-ef4444?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![hf](https://img.shields.io/badge/HuggingFace%20Spaces-11%2B-ffd60a?style=for-the-badge&labelColor=000000)](https://huggingface.co/Abdullah-Javid)
 [![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS-22c55e?style=for-the-badge&labelColor=000000)](https://github.com/mabdullahab614-alt)
 
 <br/>
@@ -121,13 +121,23 @@ class AbdullahJavid:
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,25:a855f7,50:ef4444,75:ffd60a,100:22c55e&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,25:a855f7,50:ef4444,75:ffd60a,100:22c55e&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-contribution-grid-snake-dark.svg)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,25:3b82f6,50:a855f7,75:ef4444,100:ffd60a&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,25:3b82f6,50:a855f7,75:ef4444,100:ffd60a&height=3&animation=fadeIn)
+
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> Quote of the Day
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,25:22c55e,50:ffd60a,75:3b82f6,100:a855f7&height=3&animation=fadeIn)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
 
