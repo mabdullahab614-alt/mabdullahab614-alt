@@ -86,6 +86,7 @@ class AbdullahJavid:
 | 21 | ♻️ **Garbage Classifier** | EfficientNetB0 · Transfer Learning | 96.16% accuracy · 12 classes · 15K images | Python, TensorFlow | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a0f)](https://huggingface.co/spaces/Abdullahjavid/garbage-classifier) |
 | 22 | 🎬 **Movie Suggester** | TMDB API · Actor Search · Trailer Popup | 24+ Results · 15+ Genres · Watch Providers | Python, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullahjavid/movie-suggester) |
 | 23 | 🩺 **Clinical Diagnostics Engine** | XGBoost (Tuned) · GridSearchCV | Heart Disease Risk · 90% ROC-AUC (5-fold CV) | Python, Streamlit | [![TRY LIVE](https://img.shields.io/badge/🔴TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a1a)](https://interngrowclinicaldiagnosticsengine-fucgymvnjuquzvxxq6kxhw.streamlit.app) |
+| 24 | 🧠 **NeuroMail AI** | Groq LLM (Llama 3.3 70B) · Gmail API | AI Email Reply Agent · Smart Filter · Batch Drafting (30 emails) | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-00f0ff?style=flat-square&labelColor=0a0a1a)](https://neuromail-ai-1.onrender.com) |
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
