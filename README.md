@@ -20,6 +20,9 @@
 
 [![neon](neon-banner.svg)](https://portfolio-website-jet-iota-21.vercel.app)
 
+<br/>
+
+[![License](https://img.shields.io/badge/All%20Projects-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=0a0e27)](#-license--usage)
 
 </div>
 
@@ -170,6 +173,28 @@ class AbdullahJavid:
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:ff006e&height=2)
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> License & Usage
+
+<div align="center">
+
+**All Rights Reserved © 2026 Abdullah Javid**
+
+</div>
+
+This profile and every project listed above — including source code, ideas, designs, trained models, and documentation across all of Abdullah Javid's repositories — is made publicly visible **for portfolio and demonstration purposes only**.
+
+**No part of any linked repository may be copied, modified, distributed, sublicensed, or used** — in whole or in part, for personal, educational, or commercial purposes — without explicit prior written permission from the author.
+
+Forking or cloning any of these repositories does **not** grant any rights to use, reproduce, or redistribute their contents.
+
+If you are interested in using any part of this work, please contact directly for permission:
+
+📧 **Email:** mabdullah.ab614@gmail.com
+🔗 **GitHub:** [github.com/mabdullahab614-alt](https://github.com/mabdullahab614-alt)
+💼 **LinkedIn:** [linkedin.com/in/abdullah-javid-b217a2384](https://linkedin.com/in/abdullah-javid-b217a2384)
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:ff006e&height=2)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Connect
 
