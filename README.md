@@ -112,7 +112,7 @@ class AbdullahJavid:
 
 <br/>
 
-![trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
+![trophies](https://github-trophies.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
 
 [![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
 
