@@ -112,7 +112,7 @@ class AbdullahJavid:
 
 <br/>
 
-![trophies](https://github-profile-trophy.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
+![trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
 
 [![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
 
@@ -129,7 +129,7 @@ class AbdullahJavid:
 
 <br/>
 
-[![streak](https://streak-stats.demolab.com/?user=mabdullahab614-alt&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff006e&currStreakLabel=9d4edd&sideLabels=00d9ff&dates=8b949e)](https://github.com/mabdullahab614-alt)
+[![streak](https://github-readme-streak-stats-eight.vercel.app/?user=mabdullahab614-alt&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff006e&currStreakLabel=9d4edd&sideLabels=00d9ff&dates=8b949e)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
