@@ -8,17 +8,17 @@
 
 <br/>
 
-[![portfolio](btn-portfolio.svg)](https://portfolio-website-jet-iota-21.vercel.app) [![hf](btn-hf.svg)](https://huggingface.co/Abdullah-Javid) [![linkedin](btn-linkedin.svg)](https://linkedin.com/in/abdullah-javid-b217a2384) [![email](btn-email.svg)](mailto:mabdullah.ab614@gmail.com)
+[![portfolio](btn-portfolio.svg)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) [![hf](btn-hf.svg)](https://huggingface.co/Abdullah-Javid) [![linkedin](btn-linkedin.svg)](https://linkedin.com/in/abdullah-javid-b217a2384) [![email](btn-email.svg)](mailto:mabdullah.ab614@gmail.com)
 
 <br/><br/>
 
-[![badges](badge-panel.svg)](https://portfolio-website-jet-iota-21.vercel.app)
+[![badges](badge-panel.svg)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 
 <br/>
 
 ![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode,react,nodejs,docker,firebase&theme=dark&perline=8)
 
-[![neon](neon-banner.svg)](https://portfolio-website-jet-iota-21.vercel.app)
+[![neon](neon-banner.svg)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 
 <br/>
 
@@ -52,7 +52,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-[![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://portfolio-website-jet-iota-21.vercel.app)
+[![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 [![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)](https://linkedin.com/in/abdullah-javid-b217a2384)
 [![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)](mailto:mabdullah.ab614@gmail.com)
 
@@ -75,7 +75,7 @@ class AbdullahJavid:
 | 7 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
 | 8 | ⚡ **SURGE** | C++17 + raylib → WASM | 3 stages · 3 bosses · chain-dash | C++, raylib | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/surge/) |
 | 9 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
-| 10 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://portfolio-website-jet-iota-21.vercel.app) |
+| 10 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) |
 | 11 | ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
 | 12 | 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
 | 13 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
@@ -98,7 +98,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-[![certs](cert-panel.svg)](https://portfolio-website-jet-iota-21.vercel.app)
+[![certs](cert-panel.svg)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 
 </div>
 
@@ -204,7 +204,7 @@ If you are interested in using any part of this work, please contact directly fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javid-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://linkedin.com/in/abdullah-javid-b217a2384)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Abdullah--Javid-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
 [![GitHub](https://img.shields.io/badge/GitHub-mabdullahab614--alt-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://portfolio-website-jet-iota-21.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-00d9ff?style=for-the-badge&labelColor=0a0e27)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 
 <br/>
 
