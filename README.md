@@ -91,6 +91,7 @@ class AbdullahJavid:
 | 23 | 🩺 **Clinical Diagnostics Engine** | XGBoost (Tuned) · GridSearchCV | Heart Disease Risk · 90% ROC-AUC (5-fold CV) | Python, Streamlit | [![TRY LIVE](https://img.shields.io/badge/🔴TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a1a)](https://interngrowclinicaldiagnosticsengine-fucgymvnjuquzvxxq6kxhw.streamlit.app) |
 | 24 | 🧠 **NeuroMail AI** | Groq LLM (Llama 3.3 70B) · Gmail API | AI Email Reply Agent · Smart Filter · Batch Drafting (30 emails) | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-00f0ff?style=flat-square&labelColor=0a0a1a)](https://neuromail-ai-1.onrender.com) |
 | 25 | 🔎 **Face Recognition Studio** | dlib (ResNet-based) · face_recognition | Face Detection · Face Comparison · 128-D Encoding + Match Scoring | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-7c3aed?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/ABDULLAH-JAVID04/face-recognition-demo) |
+| 26 | 🎓 **Studienkompass** | Vanilla JS · No Frameworks · German University Eligibility Checker · 132 Universities · 12 Unit Tests | HTML, CSS, JavaScript | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-e8b923?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/studienkompass/) [📦](https://github.com/mabdullahab614-alt/studienkompass) |
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
