@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;17%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;30%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,12 +33,13 @@
 ```python
 class AbdullahJavid:
     role       = ["AI Developer", "ML Engineer", "Builder & Deployer"]
-    education  = "BS Artificial Intelligence @ UMT Lahore (CGPA: 3.64/4.0)"
+    education  = "BS Artificial Intelligence @ UMT Lahore (CGPA: 3.54/4.0)"
     location   = "Lahore, Punjab, Pakistan"
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
     frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
     ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
-    deployed   = "17+ live projects across 5+ global platforms"
+    experience = ["ML Intern @ FlyRank AI", "Associate Trainee @ SPHERE Consulting"]
+    deployed   = "30+ live projects across 5+ global platforms"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
@@ -127,7 +128,7 @@ class AbdullahJavid:
 <br/>
 
 [![followers](https://img.shields.io/github/followers/mabdullahab614-alt?style=for-the-badge&logo=github&label=Followers&labelColor=0a0e27&color=00d9ff)](https://github.com/mabdullahab614-alt?tab=followers)
-[![repos](https://img.shields.io/badge/Live%20Projects-117%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![repos](https://img.shields.io/badge/Live%20Projects-30%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
 [![hf](https://img.shields.io/badge/HuggingFace%20Spaces-6%2B-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
 [![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS-9d4edd?style=for-the-badge&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
 
