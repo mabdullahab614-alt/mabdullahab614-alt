@@ -95,6 +95,7 @@ class AbdullahJavid:
 | 26 | 🎓 Studienkompass | Vanilla JS · No Frameworks · Seeded RNG Scoring | 132 Universities · 12 Unit Tests · 4-Step Checker | HTML, CSS, JavaScript | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-e8b923?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/studienkompass/) |
 | 27 | 📍 **Roll Call** | Next.js · TypeScript · Supabase · District-Level Scoring | 25.1M Out-of-School Tracked · 132+ Districts · UNICEF + PBS Data | Next.js, TypeScript, Tailwind | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-1f9d6b?style=flat-square&labelColor=0a0a1a)](https://school-dropout-enrollment-tracker.vercel.app/) |
 | 28 | 🌿 **Sage AI** | Streamlit · Groq LLM · ChromaDB RAG | Chat + Doc Q&A · Live Python Execution · Voice & Vision | Python, Streamlit, Groq, ChromaDB | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-8fae7c?style=flat-square&labelColor=0a0a1a)](https://sage-ai-q9bvrp6nmajtrxp9rp9zna.streamlit.app/) |
+| 29 | 📝 **Notes API** | FastAPI · Async SQLAlchemy 2.0 · Pydantic v2 | Full CRUD · 5 Endpoints · Auto Swagger Docs · Live on Render | Python, FastAPI, SQLite, Render | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://fastapi-notes-api-6rpc.onrender.com/docs) |
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
