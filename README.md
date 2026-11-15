@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:00d9ff,65:9d4edd,100:ff006e&height=230&section=header&text=Abdullah%20Javid&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Builder%20%2B%20Deployer&descAlignY=62&descSize=20&animation=fadeIn)
 
+![shark](https://capsule-render.vercel.app/api?type=shark&color=0:0a0e27,50:00d9ff,100:9d4edd&height=100&section=header)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+FastAPI+%7C+Groq+%7C+Gradio;29+Live+Projects+on+6+Platforms;Backend+%7C+RAG+%7C+AI+Engineering;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Builder;PyTorch+%7C+YOLOv8+%7C+Claude+API+%7C+Gradio;30%2B+Live+Projects+on+20%2B+Platforms;Deep+Learning+%7C+Computer+Vision+%7C+NLP;BS+Artificial+Intelligence+%40+UMT+Lahore;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +16,7 @@
 
 <br/>
 
-![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nextjs,typescript,tailwind,git,github,vercel,vscode&theme=dark&perline=12)
+![skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,nextjs,typescript,tailwind,fastapi,git,github,vercel,vscode,react,nodejs,docker,firebase&theme=dark&perline=8)
 
 [![neon](neon-banner.svg)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 
@@ -34,11 +36,10 @@ class AbdullahJavid:
     education  = "BS Artificial Intelligence @ UMT Lahore (CGPA: 3.54/4.0)"
     location   = "Lahore, Punjab, Pakistan"
     languages  = ["Python", "TypeScript", "JavaScript", "C++"]
-    frameworks = ["PyTorch", "TensorFlow", "YOLOv8", "FastAPI", "Next.js", "Gradio", "Streamlit"]
-    ai_apis    = ["Groq (Llama 3.3)", "HuggingFace", "Gmail API", "TMDB API"]
+    frameworks = ["PyTorch", "YOLOv8", "Next.js", "FastAPI", "Gradio"]
+    ai_apis    = ["Claude API", "GPT-4", "Gemini", "Groq", "HuggingFace"]
     experience = ["ML Intern @ FlyRank AI", "Associate Trainee @ SPHERE Consulting"]
-    deployed   = "29 live projects across 6 platforms"
-    focus      = "Backend + RAG + AI Engineering (daily project challenge)"
+    deployed   = "30+ live projects across 5+ global platforms"
     passion    = "Turning AI research into production-ready tools"
     status     = "Open to Internships & Collaborations"
 
@@ -52,8 +53,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-[![Daily](https://img.shields.io/badge/%F0%9F%94%A5%20DAILY-AI%20Project%20Challenge-ff6b35?style=for-the-badge&labelColor=1a0f05)](https://github.com/mabdullahab614-alt?tab=repositories)
-[![Focus](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20FOCUS-FastAPI%20%C2%B7%20PostgreSQL%20%C2%B7%20RAG-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![Building](https://img.shields.io/badge/%F0%9F%94%A5%20ACTIVE-Building%20AI%20Projects-00ff88?style=for-the-badge&labelColor=0a2e1a)](https://mabdullahab614-alt.github.io/abdullah-portfolio/)
 [![Studying](https://img.shields.io/badge/%F0%9F%8E%93%20STUDYING-BS%20AI%20%40%20UMT%202025--2029-00d9ff?style=for-the-badge&labelColor=0a1e2e)](https://linkedin.com/in/abdullah-javid-b217a2384)
 [![Open](https://img.shields.io/badge/%F0%9F%A4%9D%20OPEN-Internships%20%26%20Collab-9d4edd?style=for-the-badge&labelColor=150a2e)](mailto:mabdullah.ab614@gmail.com)
 
@@ -61,59 +61,42 @@ class AbdullahJavid:
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,100:00d9ff&height=2)
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Featured Projects
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"> Featured AI Projects
 
 <div align="center">
 
-| # | Project | Model / Tech | Highlights | Stack | Live |
-|:--|:--------|:-------------|:-----------|:------|:-----|
-| 28 | 🌿 **Sage AI** | Streamlit · Groq LLM · ChromaDB RAG | Chat + Doc Q&A · Live Python Execution · Voice & Vision | Python, Streamlit, Groq, ChromaDB | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-8fae7c?style=flat-square&labelColor=0a0a1a)](https://sage-ai-q9bvrp6nmajtrxp9rp9zna.streamlit.app/) |
-| 24 | 🧠 **NeuroMail AI** | Groq LLM (Llama 3.3 70B) · Gmail API | AI Email Reply Agent · Smart Filter · Batch Drafting (30 emails) | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-00f0ff?style=flat-square&labelColor=0a0a1a)](https://neuromail-ai-1.onrender.com) |
-| 29 | 📝 **Notes API** | FastAPI · Async SQLAlchemy 2.0 · Pydantic v2 | Full CRUD · 5 Endpoints · Auto Swagger Docs · Live on Render | Python, FastAPI, SQLite, Render | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://fastapi-notes-api-6rpc.onrender.com/docs) |
-| 27 | 📍 **Roll Call** | Next.js · TypeScript · Supabase · District-Level Scoring | 25.1M Out-of-School Tracked · 132+ Districts · UNICEF + PBS Data | Next.js, TypeScript, Tailwind | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-1f9d6b?style=flat-square&labelColor=0a0a1a)](https://school-dropout-enrollment-tracker.vercel.app/) |
-| 23 | 🩺 **Clinical Diagnostics Engine** | XGBoost (Tuned) · GridSearchCV | Heart Disease Risk · 90% ROC-AUC (5-fold CV) | Python, Streamlit | [![TRY LIVE](https://img.shields.io/badge/🔴TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a1a)](https://interngrowclinicaldiagnosticsengine-fucgymvnjuquzvxxq6kxhw.streamlit.app) |
-| 25 | 🔎 **Face Recognition Studio** | dlib (ResNet-based) · face_recognition | Face Detection · Face Comparison · 128-D Encoding + Match Scoring | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-7c3aed?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/ABDULLAH-JAVID04/face-recognition-demo) |
-| 2 | 🤖 **Nexus AI Assistant** | Groq · 4 LLMs | 10 languages + web | Gradio, Groq | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) |
-| 21 | ♻️ **Garbage Classifier** | EfficientNetB0 · Transfer Learning | 96.16% accuracy · 12 classes · 15K images | Python, TensorFlow | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a0f)](https://huggingface.co/spaces/Abdullahjavid/garbage-classifier) |
-
-</div>
-
-<details>
-<summary><b>📂 View all other projects (21 more)</b></summary>
-
-<br/>
-
-<div align="center">
-
-| # | Project | Model / Tech | Highlights | Stack | Live |
-|:--|:--------|:-------------|:-----------|:------|:-----|
-| 1 | 🔬 **Skin Disease Detector** ⚠️ | ResNet18 | 71.8% accuracy · 9 conditions | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) |
+| # | Project | Model | Metric | Stack | Live |
+|:--|:--------|:------|:-------|:------|:-----|
+| 1 | 🔬 **Skin Disease Detector** | ResNet18 | **71.8%** - 9 conditions | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/skin-disease-detector) |
+| 2 | 🤖 **Nexus AI Assistant** | Groq - 4 LLMs | 10 languages + web | Gradio, Groq | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/nexus-ai-assistant) |
 | 3 | 🐾 **Animal Detector** | YOLOv8 | 10 species real-time | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/animal-detector) |
 | 4 | 💊 **Tablet Defect Inspector** | ResNet18 | Good vs Defective | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/BUDDDY2894830/tablet-defect-inspector) |
-| 5 | ✍️ **Air Writer** | MediaPipe | 30fps · zero hardware | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
-| 6 | ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings · ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
-| 7 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle · 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
+| 5 | ✍️ **Air Writer** | MediaPipe | 30fps - zero hardware | OpenCV, Gradio | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/air-writer) |
+| 6 | ♟️ **ChessMaster** | Minimax + Alpha-Beta | 20+ openings - ELO | TypeScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/chessmaster/) |
+| 7 | 🎮 **Galactic Defender** | Pygame to WASM | Boss battle - 3 modes | Pygame | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://aabdullah2894830.itch.io/galactic-defender-absolute-zero) |
 | 8 | ⚡ **SURGE** | C++17 + raylib → WASM | 3 stages · 3 bosses · chain-dash | C++, raylib | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/surge/) |
-| 9 | 🐍 **Snake Strike** | Canvas API | Web Audio · mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
-| 10 | 🌐 **Portfolio Website** | Next.js 15 | Neural net · 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) |
+| 9 | 🐍 **Snake Strike** | Canvas API | Web Audio - mobile | JavaScript | [![](https://img.shields.io/badge/%F0%9F%94%97-PLAY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/snake-strike/) |
+| 10 | 🌐 **Portfolio Website** | Next.js 15 | Neural net - 3D effects | Next.js, Framer | [![](https://img.shields.io/badge/%F0%9F%94%97-VISIT-9d4edd?style=flat-square&labelColor=150a2e)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) |
 | 11 | ⚡ **Quick Summarizer** | Frequency Scoring | 48.6% compression · zero deps | HTML, JS | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a1e27)](https://mabdullahab614-alt.github.io/quick-summarizer) |
-| 12 | 🧠 **Sentiment Snap** | DistilBERT | Positive / Negative sentiment | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
-| 13 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 game modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
-| 14 | 👻 **Phantom Writer** | Hybrid Stylometric | AI-text detector + rewriter | Python, Flask | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
-| 15 | 🛡️ **Mail Sentinel** | TF-IDF + Naive Bayes | 97%+ accuracy · spam detection | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-00d2ff?style=flat-square&labelColor=000814)](https://mail-sentinel-hy47.onrender.com) |
-| 16 | 🖩 **Calculator by Abdullah** | C# → Web | Scientific · dark UI · keyboard support | HTML, JS, C# | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0d0d1a)](https://calculator-by-abdullah.onrender.com) |
-| 17 | 🧠 **NeuroScan AI** ⚠️ | ResNet18 · Transfer Learning | Brain tumor detection · 4 classes · 92.2% accuracy | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-1d4ed8?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah-Javid/brain-tumor-detector) |
-| 18 | ✏️ **HandScan AI** | CNN · MNIST | Handwritten digits · 10 classes · 99.28% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-4f46e5?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah2894830/handwritten-character-recognition) |
-| 19 | ⚡ **TrackFlow** | Vanilla JS · PWA | Habit grid · streak counter · daily diary | HTML, JS, CSS | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/trackflow/) |
-| 20 | 🔬 **Lung Cancer Vision** ⚠️ | MobileNetV2 · Transfer Learning | Lung cancer detection · 3 classes · 99.73% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00fff2?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/lung-cancer-vision) |
-| 22 | 🎬 **Movie Suggester** | TMDB API · Actor Search | 24+ results · 15+ genres · watch providers | Python, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullahjavid/movie-suggester) |
-| 26 | 🎓 **Studienkompass** | Vanilla JS · Seeded RNG Scoring | 132 universities · 12 unit tests · 4-step checker | HTML, CSS, JavaScript | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-e8b923?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/studienkompass/) |
-
+| 12 | 🧠 **Sentiment Snap** | DistilBERT | 99.99% confidence · Positive/Negative | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-ffcc00?style=flat-square&labelColor=1a1040)](https://huggingface.co/spaces/Abdullah2894830/sentiment-snap) |
+| 13 | 🎮 **Mind Bender** | Minimax + Alpha-Beta | Unbeatable AI · 3 Game Modes | Python, Gradio | [![](https://img.shields.io/badge/🤗-PLAY%20LIVE-9d4edd?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/mind-bender-game) |
+| 14 | 👻 **Phantom Writer** | Hybrid Stylometric · AI Detector + Humanizer | Bypass detectors instantly | Python, Flask | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-16a34a?style=flat-square&labelColor=14532d)](https://phantom-writer.onrender.com) |
+| 15 | 🛡️ **Mail Sentinel** | TF-IDF + Naive Bayes | 97%+ accuracy · Neural spam detection | Python, Streamlit | [![](https://img.shields.io/badge/%F0%9F%9A%80-TRY%20LIVE-00d2ff?style=flat-square&labelColor=000814)](https://mail-sentinel-hy47.onrender.com) |
+| 16 | 🖩 **Calculator by Abdullah** | C# → Web | Scientific · Dark UI · Keyboard Support | HTML, JS, C# | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0d0d1a)](https://calculator-by-abdullah.onrender.com) |
+| 17 | 🧠 **NeuroScan AI** | ResNet18 · Transfer Learning | Brain Tumor Detection · 4 Conditions · 92.2% accuracy | PyTorch, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-1d4ed8?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah-Javid/brain-tumor-detector) |
+| 18 | ✏️ **HandScan AI** | CNN · MNIST | Handwritten Digit Recognition · 10 Classes · 99.28% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-4f46e5?style=flat-square&labelColor=0f172a)](https://huggingface.co/spaces/Abdullah2894830/handwritten-character-recognition) |
+| 19 | ⚡ **TrackFlow** | Vanilla JS · PWA | Habit Grid · Streak Counter · Daily Diary | HTML, JS, CSS | [![](https://img.shields.io/badge/🔗-TRY%20LIVE-00d9ff?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/trackflow/) |
+| 20 | 🔬 **Lung Cancer Vision** | MobileNetV2 · Transfer Learning | Lung Cancer Detection · 3 Classes · 99.73% accuracy | TensorFlow, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-00fff2?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullah2894830/lung-cancer-vision) |
+| 21 | ♻️ **Garbage Classifier** | EfficientNetB0 · Transfer Learning | 96.16% accuracy · 12 classes · 15K images | Python, TensorFlow | [![](https://img.shields.io/badge/%F0%9F%A4%97-TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a0f)](https://huggingface.co/spaces/Abdullahjavid/garbage-classifier) |
+| 22 | 🎬 **Movie Suggester** | TMDB API · Actor Search · Trailer Popup | 24+ Results · 15+ Genres · Watch Providers | Python, Gradio | [![](https://img.shields.io/badge/%F0%9F%94%97-TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/Abdullahjavid/movie-suggester) |
+| 23 | 🩺 **Clinical Diagnostics Engine** | XGBoost (Tuned) · GridSearchCV | Heart Disease Risk · 90% ROC-AUC (5-fold CV) | Python, Streamlit | [![TRY LIVE](https://img.shields.io/badge/🔴TRY%20LIVE-00ff88?style=flat-square&labelColor=0a0a1a)](https://interngrowclinicaldiagnosticsengine-fucgymvnjuquzvxxq6kxhw.streamlit.app) |
+| 24 | 🧠 **NeuroMail AI** | Groq LLM (Llama 3.3 70B) · Gmail API | AI Email Reply Agent · Smart Filter · Batch Drafting (30 emails) | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-00f0ff?style=flat-square&labelColor=0a0a1a)](https://neuromail-ai-1.onrender.com) |
+| 25 | 🔎 **Face Recognition Studio** | dlib (ResNet-based) · face_recognition | Face Detection · Face Comparison · 128-D Encoding + Match Scoring | Python, Gradio | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-7c3aed?style=flat-square&labelColor=0a0a1a)](https://huggingface.co/spaces/ABDULLAH-JAVID04/face-recognition-demo) |
+| 26 | 🎓 Studienkompass | Vanilla JS · No Frameworks · Seeded RNG Scoring | 132 Universities · 12 Unit Tests · 4-Step Checker | HTML, CSS, JavaScript | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-e8b923?style=flat-square&labelColor=0a0a1a)](https://mabdullahab614-alt.github.io/studienkompass/) |
+| 27 | 📍 **Roll Call** | Next.js · TypeScript · Supabase · District-Level Scoring | 25.1M Out-of-School Tracked · 132+ Districts · UNICEF + PBS Data | Next.js, TypeScript, Tailwind | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-1f9d6b?style=flat-square&labelColor=0a0a1a)](https://school-dropout-enrollment-tracker.vercel.app/) |
+| 28 | 🌿 **Sage AI** | Streamlit · Groq LLM · ChromaDB RAG | Chat + Doc Q&A · Live Python Execution · Voice & Vision | Python, Streamlit, Groq, ChromaDB | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-8fae7c?style=flat-square&labelColor=0a0a1a)](https://sage-ai-q9bvrp6nmajtrxp9rp9zna.streamlit.app/) |
+| 29 | 📝 **Notes API** | FastAPI · Async SQLAlchemy 2.0 · Pydantic v2 | Full CRUD · 5 Endpoints · Auto Swagger Docs · Live on Render | Python, FastAPI, SQLite, Render | [![TRY LIVE](https://img.shields.io/badge/🔴%20TRY%20LIVE-ff6b35?style=flat-square&labelColor=0a0a1a)](https://fastapi-notes-api-6rpc.onrender.com/docs) |
 </div>
-
-> ⚠️ **Medical projects** (Skin Disease Detector, NeuroScan AI, Lung Cancer Vision) are **educational demos only** and must not be used for medical diagnosis.
-
-</details>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:00ff88&height=2)
 
@@ -131,14 +114,24 @@ class AbdullahJavid:
 
 <div align="center">
 
+[![trophies-btn](btn-trophies.svg)](https://github.com/mabdullahab614-alt?tab=repositories)&nbsp;&nbsp;[![stats-btn](btn-github-stats.svg)](https://github.com/mabdullahab614-alt)&nbsp;&nbsp;[![streak-btn](btn-streak-fire.svg)](https://github.com/mabdullahab614-alt)&nbsp;&nbsp;[![activity-btn](btn-activity-graph.svg)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
+![trophies](https://github-trophies.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
+
+[![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
+
+<br/>
+
 [![stats-panel](stats-panel.svg)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
 [![followers](https://img.shields.io/github/followers/mabdullahab614-alt?style=for-the-badge&logo=github&label=Followers&labelColor=0a0e27&color=00d9ff)](https://github.com/mabdullahab614-alt?tab=followers)
-[![repos](https://img.shields.io/badge/Live%20Projects-29-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
-[![hf](https://img.shields.io/badge/HuggingFace%20Spaces-13-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
-[![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS%20·%20TS-9d4edd?style=for-the-badge&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
+[![repos](https://img.shields.io/badge/Live%20Projects-30%2B-ff006e?style=for-the-badge&logo=github&labelColor=0a0e27)](https://github.com/mabdullahab614-alt?tab=repositories)
+[![hf](https://img.shields.io/badge/HuggingFace%20Spaces-6%2B-ffcc00?style=for-the-badge&labelColor=0a0e27)](https://huggingface.co/Abdullah-Javid)
+[![langs](https://img.shields.io/badge/Languages-Python%20·%20C%2B%2B%20·%20JS-9d4edd?style=for-the-badge&labelColor=0a0e27)](https://github.com/mabdullahab614-alt)
 
 <br/>
 
@@ -151,6 +144,41 @@ class AbdullahJavid:
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,100:9d4edd&height=2)
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Contribution Snake
+
+![snake](https://raw.githubusercontent.com/mabdullahab614-alt/mabdullahab614-alt/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌆 3D Contribution City
+
+![3D rainbow](profile-3d-contrib/profile-night-rainbow.svg)
+
+![3D animated](profile-3d-contrib/profile-south-season-animate.svg)
+
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:00d9ff&height=2)
+
+## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="28"> Dev Joke of the Day
+
+<div align="center">
+
+[![joke](joke-btn.svg)](https://github.com/mabdullahab614-alt)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:ff006e&height=2)
+
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"> Quote of the Day
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:9d4edd,100:ff006e&height=2)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> License & Usage
 
