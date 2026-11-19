@@ -110,9 +110,7 @@ class AbdullahJavid:
 
 <div align="center">
 
-[![trophies-btn](btn-trophies.svg)](https://github.com/mabdullahab614-alt?tab=repositories) [![stats-btn](btn-github-stats.svg)](https://github.com/mabdullahab614-alt) [![streak-btn](btn-streak-fire.svg)](https://github.com/mabdullahab614-alt) [![activity-btn](btn-activity-graph.svg)](https://github.com/mabdullahab614-alt)
-
-![trophies](https://github-trophies.vercel.app/?username=mabdullahab614-alt&theme=radical&no-frame=false&margin-w=6&row=1&column=7)
+[![stats-btn](btn-github-stats.svg)](https://github.com/mabdullahab614-alt) [![streak-btn](btn-streak-fire.svg)](https://github.com/mabdullahab614-alt) [![activity-btn](btn-activity-graph.svg)](https://github.com/mabdullahab614-alt)
 
 [![stats-btn](animated-btn.svg)](https://github.com/mabdullahab614-alt)
 
