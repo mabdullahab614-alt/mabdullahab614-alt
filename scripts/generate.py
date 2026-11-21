@@ -205,8 +205,8 @@ PALETTE = {
     "adult": dict(o="#9d4edd", d="#2a0f5c", e="#ffffff", p="#0a0e27", c="#00d9ff", b="#e0c3fc"),
     "legend": dict(o="#ff006e", d="#4a0020", e="#ffffff", p="#0a0e27", c="#00d9ff", b="#ffc2d9", y="#ffd60a"),
 }
-STAGES = [("egg", "Code Egg", 0), ("baby", "Bit Hatchling", 30), ("teen", "Byte Runner", 150),
-          ("adult", "Neural Dragon", 500), ("legend", "Singularity Lord", 1200)]
+STAGES = [("egg", "Code Egg", 0), ("baby", "Bit Hatchling", 150), ("teen", "Byte Runner", 600),
+          ("adult", "Neural Dragon", 1500), ("legend", "Singularity Lord", 3500)]
 
 
 def pet(d):
