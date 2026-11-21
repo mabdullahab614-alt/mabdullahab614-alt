@@ -35,7 +35,10 @@ def fetch_live():
         data=json.dumps({"query": q, "variables": {"login": USER}}).encode(),
         headers={"Authorization": f"bearer {os.environ['GH_TOKEN']}", "Content-Type": "application/json"},
     )
-    u = json.load(urllib.request.urlopen(req))["data"]["user"]
+        resp = json.load(urllib.request.urlopen(req))
+    if not resp.get("data") or not resp["data"].get("user"):
+        sys.exit("GitHub API error: " + json.dumps(resp)[:700])
+    u = resp["data"]["user"]
     cc = u["contributionsCollection"]
     weeks = [[d["contributionCount"] for d in w["contributionDays"]] for w in cc["contributionCalendar"]["weeks"]]
     dates = [d["date"] for w in cc["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
