@@ -27,7 +27,7 @@ CYAN, PURPLE, PINK, GREEN, BG = "#00d9ff", "#9d4edd", "#ff006e", "#00ff88", "#0a
 def fetch_live():
     q = """query($login:String!){user(login:$login){
       followers{totalCount}
-      repositories(ownerAffiliation:OWNER,privacy:PUBLIC,first:100){totalCount nodes{stargazerCount}}
+      repositories(ownerAffiliations:OWNER,privacy:PUBLIC,first:100){totalCount nodes{stargazerCount}}
       contributionsCollection{totalCommitContributions totalPullRequestContributions
         contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"""
     req = urllib.request.Request(
