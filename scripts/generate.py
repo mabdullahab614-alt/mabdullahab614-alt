@@ -35,7 +35,7 @@ def fetch_live():
         data=json.dumps({"query": q, "variables": {"login": USER}}).encode(),
         headers={"Authorization": f"bearer {os.environ['GH_TOKEN']}", "Content-Type": "application/json"},
     )
-        resp = json.load(urllib.request.urlopen(req))
+           resp = json.load(urllib.request.urlopen(req))
     if not resp.get("data") or not resp["data"].get("user"):
         sys.exit("GitHub API error: " + json.dumps(resp)[:700])
     u = resp["data"]["user"]
