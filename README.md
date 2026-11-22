@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="assets/ascii.svg" alt="ASCII portrait of Abdullah Javid" width="620"/>
+<img src="assets/ascii.svg" alt="ASCII portrait of Abdullah Javid" width="696"/>
 
 </div>
 
