@@ -56,9 +56,11 @@ Every project below runs live. Click and try it.
 
 ## Background
 
-**ML Intern**, FlyRank AI · Jul to Aug 2026
-**Associate Trainee**, SPHERE Consulting · Aug to Sep 2026
-**BS Artificial Intelligence**, UMT Lahore · 2025 to 2029
+| Role | Where | When |
+|---|---|---|
+| ML Intern | FlyRank AI | Jul to Aug 2026 |
+| Associate Trainee | SPHERE Consulting | Aug to Sep 2026 |
+| BS Artificial Intelligence | UMT Lahore | 2025 to 2029 |
 
 <br/>
 
