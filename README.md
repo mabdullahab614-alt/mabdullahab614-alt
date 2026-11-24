@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logoColor=white)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-141414?style=for-the-badge&logo=huggingface&logoColor=FFCC00)](https://huggingface.co/Abdullah-Javid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-javid-b217a2384) [![Email me](https://img.shields.io/badge/Hire%20me-FF5A36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullah.ab614@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logoColor=white)](https://mabdullahab614-alt.github.io/abdullah-portfolio/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-141414?style=for-the-badge&logo=huggingface&logoColor=FFCC00)](https://huggingface.co/Abdullah-Javid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-javid-b217a2384) [![CV](https://img.shields.io/badge/Download%20CV-141414?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/mabdullahab614-alt/mabdullahab614-alt/raw/main/Abdullah-Javid-CV.pdf) [![Email me](https://img.shields.io/badge/Hire%20me-FF5A36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullah.ab614@gmail.com)
 
 </div>
 
