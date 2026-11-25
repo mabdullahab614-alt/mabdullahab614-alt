@@ -64,7 +64,7 @@ def hero():
 <circle cx="712" cy="166" r="108" fill="{CORAL}"/>
 <circle cx="712" cy="166" r="108" fill="none" stroke="{INK}" stroke-width="2" transform="translate(16 16)"/>
 <text x="712" y="194" text-anchor="middle" font-family="{SERIF}" font-size="92" font-weight="700" fill="{CREAM}" letter-spacing="-3">AJ</text>
-<text x="56" y="76" font-family="{SANS}" font-size="13" font-weight="700" letter-spacing="3" fill="{MUTED}">AI ENGINEER  ·  LAHORE, PAKISTAN</text>
+<text x="56" y="76" font-family="{SANS}" font-size="13" font-weight="700" letter-spacing="3" fill="{MUTED}">AI &amp; ML ENGINEER  ·  LAHORE, PAKISTAN</text>
 <text x="52" y="162" font-family="{SERIF}" font-size="84" font-weight="700" fill="{INK}" letter-spacing="-2">Abdullah</text>
 <text x="52" y="242" font-family="{SERIF}" font-size="84" font-weight="700" fill="{INK}" letter-spacing="-2">Javid<tspan fill="{CORAL}">.</tspan></text>
 <text x="56" y="280" font-family="{SANS}" font-size="17" fill="{INK}">I build AI products that ship, from model to live link.</text>

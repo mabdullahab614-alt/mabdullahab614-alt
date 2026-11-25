@@ -14,9 +14,9 @@
 
 | Computer vision & medical AI | LLM apps & RAG | Full-stack AI products |
 |---|---|---|
-| Image classifiers and detectors trained with PyTorch / TensorFlow and shipped as live demos. | Chat, document Q&A and email agents on Groq, ChromaDB and the Gmail API. | Next.js + FastAPI apps with real data, auth and deployment. |
+| Image classifiers and detectors trained with PyTorch / TensorFlow and shipped as live demos. | Chat, document Q&A and email agents on Groq, ChromaDB and the Gmail API. | Next.js, FastAPI and Laravel dashboards and APIs, taken from idea to live deployment. |
 
-**Toolbox:** Python · PyTorch · TensorFlow · YOLOv8 · OpenCV · FastAPI · Next.js · TypeScript · C++ · Groq · ChromaDB · Gradio · Streamlit
+**Toolbox:** Python · PyTorch · TensorFlow · YOLOv8 · OpenCV · FastAPI · Next.js · TypeScript · PHP · Laravel · C++ · Groq · ChromaDB · Gradio · Streamlit
 
 <br/>
 
@@ -54,13 +54,15 @@ Every project below runs live. Click and try it.
 
 <br/>
 
-## Background
+## Experience
 
-| Role | Where | When |
-|---|---|---|
-| ML Intern | FlyRank AI | Jul to Aug 2026 |
-| Associate Trainee | SPHERE Consulting | Aug to Sep 2026 |
-| BS Artificial Intelligence | UMT Lahore | 2025 to 2029 |
+**ML Intern, FlyRank AI** &nbsp;·&nbsp; Jul to Aug 2026 &nbsp;·&nbsp; Remote<br/>
+Built and deployed deep learning and computer vision applications as part of the July 2026 cohort, and cut model inference time by 35%.
+
+**Associate Trainee, SPHERE Consulting** &nbsp;·&nbsp; Aug to Sep 2026 &nbsp;·&nbsp; Lahore, on-site<br/>
+Took dashboards from idea to live production in a public health consulting environment using PHP and Laravel: UI/UX, backend, database queries, Git and GitHub, deployment, and live support.
+
+**BS Artificial Intelligence, UMT Lahore** &nbsp;·&nbsp; 2025 to 2029
 
 <br/>
 
