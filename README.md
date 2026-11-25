@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=2" alt="Abdullah Javid, AI Engineer" width="860"/>
+<img src="assets/hero-v2.svg" alt="Abdullah Javid, AI Engineer" width="860"/>
 
 <br/>
 

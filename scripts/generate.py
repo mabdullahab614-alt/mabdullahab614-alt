@@ -82,7 +82,7 @@ def hero():
 <g transform="translate(56 298)"><rect width="318" height="30" rx="15" fill="{INK}"/>
 <circle cx="19" cy="15" r="5" fill="{GREEN}"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
 <text x="34" y="20" font-family="{SANS}" font-size="13" font-weight="600" fill="{CREAM}">Available for freelance &amp; internships</text></g>'''
-    save("hero.svg", f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340">{body}</svg>')
+    save("hero-v2.svg", f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" width="860" height="340">{body}</svg>')
 
 
 def activity(d):
