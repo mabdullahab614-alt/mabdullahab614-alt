@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Abdullah Javid, AI Engineer" width="860"/>
+<img src="assets/hero.svg?v=2" alt="Abdullah Javid, AI Engineer" width="860"/>
 
 <br/>
 
@@ -49,7 +49,7 @@ Every project below runs live. Click and try it.
 ## This year on GitHub
 
 <div align="center">
-<img src="assets/activity.svg" alt="Live GitHub activity" width="860"/>
+<img src="assets/activity.svg?v=2" alt="Live GitHub activity" width="860"/>
 </div>
 
 <br/>
