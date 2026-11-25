@@ -7,7 +7,7 @@ Builds the two SVGs used by the profile README.
 
 Live mode: GH_TOKEN set (GitHub Actions)   Demo mode: python scripts/generate.py --demo
 """
-import json, math, os, random, sys, urllib.request
+import base64, json, math, os, random, sys, urllib.request
 from xml.sax.saxutils import escape
 
 USER = os.environ.get("GH_USER", "mabdullahab614-alt")
@@ -60,10 +60,21 @@ def save(name, s):
 
 
 def hero():
-    body = f'''<rect width="860" height="340" rx="22" fill="{CREAM}"/>
-<circle cx="712" cy="166" r="108" fill="{CORAL}"/>
-<circle cx="712" cy="166" r="108" fill="none" stroke="{INK}" stroke-width="2" transform="translate(16 16)"/>
-<text x="712" y="194" text-anchor="middle" font-family="{SERIF}" font-size="92" font-weight="700" fill="{CREAM}" letter-spacing="-3">AJ</text>
+    photo = ""
+    p = os.path.join(OUT, "avatar-cutout.png")
+    if os.path.exists(p):
+        b64 = base64.b64encode(open(p, "rb").read()).decode()
+        photo = (f'<g clip-path="url(#card)"><image href="data:image/png;base64,{b64}" '
+                 f'x="545" y="14" width="326" height="326"/></g>')
+    else:  # fallback monogram if the cutout file is missing
+        photo = (f'<text x="705" y="212" text-anchor="middle" font-family="{SERIF}" font-size="92" '
+                 f'font-weight="700" fill="{CREAM}" letter-spacing="-3">AJ</text>')
+    body = f'''<defs><clipPath id="card"><rect width="860" height="340" rx="22"/></clipPath></defs>
+<rect width="860" height="340" rx="22" fill="{CREAM}"/>
+<g clip-path="url(#card)">
+<circle cx="706" cy="190" r="124" fill="{CORAL}"/>
+<circle cx="706" cy="190" r="124" fill="none" stroke="{INK}" stroke-width="2" transform="translate(14 14)"/></g>
+{photo}
 <text x="56" y="76" font-family="{SANS}" font-size="13" font-weight="700" letter-spacing="3" fill="{MUTED}">AI &amp; ML ENGINEER  ·  LAHORE, PAKISTAN</text>
 <text x="52" y="162" font-family="{SERIF}" font-size="84" font-weight="700" fill="{INK}" letter-spacing="-2">Abdullah</text>
 <text x="52" y="242" font-family="{SERIF}" font-size="84" font-weight="700" fill="{INK}" letter-spacing="-2">Javid<tspan fill="{CORAL}">.</tspan></text>
